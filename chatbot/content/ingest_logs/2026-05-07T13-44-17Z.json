@@ -1,0 +1,21 @@
+{
+  "duration_seconds": 10.63,
+  "finished_at": "2026-05-07T13:44:28Z",
+  "index_summary": {
+    "chunks": 241,
+    "newsletter_chunks": 241,
+    "webpage_chunks": 0
+  },
+  "pages_changed_urls": [],
+  "pages_crawled": 0,
+  "pages_new_or_changed": 0,
+  "pdf_links_seen": 0,
+  "pdfs_added": [],
+  "pdfs_new_or_updated": 0,
+  "start_url": "https://metrosouthchamber.com/events/",
+  "started_at": "2026-05-07T13:44:17Z",
+  "tracker_stats": {
+    "pages_tracked": 0,
+    "pdfs_tracked": 0
+  }
+}

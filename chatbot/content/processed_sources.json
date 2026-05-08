@@ -1,0 +1,2711 @@
+{
+  "pages": {
+    "http://metrosouthchamber.com/": {
+      "hash": "909b3589bebb798096d268c255040d6b3139d6c8578926a67422e4e0923ba601",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Chamber of Commerce | Brockton, Massachusetts"
+    },
+    "http://metrosouthchamber.com/events": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/membership/advertising": {
+      "hash": "424bb109b25cd01b0dee14c4e4ff8f7b2d04e5a48d3470e5e97e9e438d047d70",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Advertising | Metro South Chamber of Commerce Brockton MA"
+    },
+    "http://metrosouthchamber.com/membership/directory": {
+      "hash": "90e91292f9d1706bdfee02833dd35aab0edab6ab5fe5ceca7036a232e8c13b68",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Directory | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/membership/join": {
+      "hash": "e5a49a53496fbbf9b19c7ab608e1f20da13fa2f61e16e21df8a912801ad0ea8c",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Join the Chamber | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/news-media/action-report": {
+      "hash": "15588d626bfaac6654600975afb8849b56ae35e54c550a41de066dd936332308",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Monthly Business Action Report | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/region/aboutregion": {
+      "hash": "0b6bc5bcd8a9f2d9035e7eba3c3ca0b50d74efa71b062da53766afd503a0192f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Visit Metro South Region | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/region/communities": {
+      "hash": "fb1aa7937440c5e3f80a723e59d25e111638da08d6ff8ca1d7703d3f356db87b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Communities | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/region/shop-local": {
+      "hash": "cbdb89a764bcc811ef0546550a4597b5b5925aed7aa773f33c9cf2496429b5e9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Shop Local MA | Metro South Chamber of Commerce"
+    },
+    "http://metrosouthchamber.com/resources/your-legislator": {
+      "hash": "4eb79bd61ae8fb450122371199c173800ee9b9f7c73706339b523632772a15d5",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Contact Your Legislator | Metro South Chamber of Commerce"
+    },
+    "http://www.metrosouthchamber.com/membership/join": {
+      "hash": "e5a49a53496fbbf9b19c7ab608e1f20da13fa2f61e16e21df8a912801ad0ea8c",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Join the Chamber | Metro South Chamber of Commerce"
+    },
+    "http://www.metrosouthchamber.com/news-media/action-report": {
+      "hash": "15588d626bfaac6654600975afb8849b56ae35e54c550a41de066dd936332308",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Monthly Business Action Report | Metro South Chamber of Commerce"
+    },
+    "http://www.metrosouthchamber.com/programs/innovation-campaign/naming": {
+      "hash": "0eeae30161600b51bbb05c892295a8caf5aa3e75c87af2abeafb07fc7aba1479",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Donor Naming Options | Metro South Chamber of Commerce"
+    },
+    "http://www.metrosouthchamber.com/region/aboutregion": {
+      "hash": "0b6bc5bcd8a9f2d9035e7eba3c3ca0b50d74efa71b062da53766afd503a0192f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Visit Metro South Region | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/": {
+      "hash": "909b3589bebb798096d268c255040d6b3139d6c8578926a67422e4e0923ba601",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Chamber of Commerce | Brockton, Massachusetts"
+    },
+    "https://metrosouthchamber.com/?page_id=1232": {
+      "hash": "0eeae30161600b51bbb05c892295a8caf5aa3e75c87af2abeafb07fc7aba1479",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Donor Naming Options | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/?page_id=556": {
+      "hash": "2c005a5aa704e63096eedff0e753e4b5305b8acd914df32631c446b667c5da7b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Partners Programs | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/business-front-door": {
+      "hash": "5c1aa17d371f0fbb8e2453c78d418afd1ce56aec704191e5e00c0fe17dcc2dea",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Front Door | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/community-one-stop-for-growth": {
+      "hash": "fba78eed55de47bf786150a80f63ec9e8e1c0adce1266517d67511d2d2013992",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Community One Stop for Growth | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/113th-annual-meeting-b2b-expo": {
+      "hash": "79ff7694fc58528ef738e1b92eed8e6a01d0c523ad4268a309a34618d7e6882b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "113th Annual Meeting & B2B Expo | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/28th-annual-athena-leadership-award-luncheon": {
+      "hash": "7de65940edda9ee4b9bc6972df1ed0d99ae636c9dffc5e05bf609386fbc00b77",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "28th Annual ATHENA Leadership Award Luncheon | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/29th-annual-cap-career-day": {
+      "hash": "d4a017cb5e492192ee085d4ced9efd6dfceb3cca7d853c1bb91b28581bace7dc",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "29th Annual CAP Career Day | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/35th-annual-small-business-entrepreneur-of-the-year-awards-luncheon": {
+      "hash": "e19902d74380b9ffd3099865eec65a549fa9ff8fff198814039e9724156ce9af",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "35th Annual Small Business & Entrepreneur of the Year Awards Luncheon | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/8th-annual-construction-career-day": {
+      "hash": "3c85d80ffd2eed0b5af69432c3f2bf6e77d5d682341abcc2307d6edcd5eabb70",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "8th Annual Construction Career Day | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ai-innovators-bootcamp-april-10": {
+      "hash": "5209af409ac33dc37f530ea9c234e47f6ea06e2af9f39673bdb8e50a3dfac7db",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "AI Innovators Bootcamp - April 10 | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ai-innovators-bootcamp-april-17": {
+      "hash": "38010019d77dc5eed0725965941aa3ea4805922cbc65026d1cfc55fbf205406f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "AI Innovators Bootcamp - April 17 | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/annual-labor-employment-law-update": {
+      "hash": "48acc05917fcae3e0cebc07ce678f0b43dac749309be5296a857176b88a2c9ca",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Annual Labor & Employment Law Update | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ap-career-kickstart-showcase": {
+      "hash": "2bdff08781e1ce2d49bd27ffe55a6a531be20be24e32979b75d40e51f4a5fff4",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "AP Career Kickstart Showcase | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/bah-04162026": {
+      "hash": "354f4c416007a40adfc7f88d9a7fd2e19a5c75f4e3f0b50011c464f912e685fc",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business After Hours with Live Nation and Residence Inn | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/basic-entrepreneurial-workshop-business-fundamentals-financing-basics-with-scu-cu": {
+      "hash": "f771a9a188e2c8ad1065773a8ed6e1eca88d950e5762f6377e26ad505a7e1be9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Basic Entrepreneurial Workshop: Business Fundamentals & Financing Basics with SCU CU | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/exclusive-backyard-preview-xfinity-center-tour": {
+      "hash": "56dde5cd9ed324d7b1400f9464ebe50d7eaea6c0d3fe157130419ffa09ca5de9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Exclusive \"Backyard\" Preview XFinity Center Tour | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/forward-brockton-arts": {
+      "hash": "d0845da0d5feee6a1e4ee0b8ea967fd2bdcbaf6225dddc6ea6c7b3be1a9a954b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "FORWARD: Brockton Arts | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/good-day-metro-south-april-2026": {
+      "hash": "3061f91ef5eefa12430a165e283a115e9ed2b5d76084755cda121d4ba5eeddd1",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Good Day Metro South | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/in-your-corner-mens-health-night": {
+      "hash": "c7f2ae367e6c8d5f368eaf9737eb2ce3429f1d0e03ef7d7e6851b1082f7d78d7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "In Your Corner: Men\u2019s Health Night | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/live-nation-tpc-boston": {
+      "hash": "f3a10043faa6657a100a30e32416b0a3bbcda90bd14c4f88d356f9ca20d81504",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Live Nation - TPC Boston | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/massachusetts-small-business-resource-forum": {
+      "hash": "e5e8748bd1f5c0ffa5916f53505543ea61ce5f84c1b357ee5f4bd0a034e04b44",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Massachusetts Small Business Resource Forum | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/massasoit-spring-career-job-fair-2026": {
+      "hash": "b0f172a8e4819f6d9c7f5e3009d23b5604e15829fa148c91e4714199d977bf81",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Massasoit Spring Career & Job Fair 2026 | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/meet-the-commissioners-brockton-womens-commission": {
+      "hash": "9c13bd996cf12e3bf96eb0b710e6a521c8dfe9cfe7cc974aa1d3962fc29ab6b1",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Meet the Commissioners - Brockton Women\u2019s Commission | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/multi-chamber-business-after-hours-live-harness-racing-2026": {
+      "hash": "b49b31acf41a4a35420760d5af89ec9ad58be44969b40441d55ee1d0e3d8bdd6",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Multi-Chamber Business After Hours \u2013 Live Harness Racing | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ribbon-cutting-allan-veterinary-clinic": {
+      "hash": "9d31550bf3a44acace01ecaff08f69d9b942318d9cfa6291c5d5db62b7e72629",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Ribbon Cutting @ Allan Veterinary Clinic | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ribbon-cutting-divine-watch-training-school": {
+      "hash": "2534ca12713544688f6d860f2ecb8a04b4962210eb668ffb74e1b260b7f3c437",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Ribbon Cutting @ Divine Watch Training School | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ribbon-cutting-fusion-essence": {
+      "hash": "640e5a493d55882ad9a828ab94157fc2e8df2fb0cf324f975d7b30b9c67d8492",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Ribbon Cutting @ Fusion Essence | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/ribbon-cutting-tru-by-hilton": {
+      "hash": "3e1505d02efb1c434cee5b29a70064dc3c2e2450f7994d1f1f13a941a6d6627d",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Ribbon Cutting @ Tru by Hilton | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/event/south-coast-real-a-year-in-review": {
+      "hash": "bbd1d30710d57f8143533e0b277dab63c31c8f079d2c330c3ce1e522ca3b6b68",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "South Coast Real: A Year in Review | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-01": {
+      "hash": "29eb57f15f1b246c0dc56d0d77b75913d656a6bc740ef5c45f448cd7819a8bfa",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 1 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-08": {
+      "hash": "3cb28c73de808aaa6a74e2a27823bfa3c844310fa43316bb603c931017e9942b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 8 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-09": {
+      "hash": "8ec36e69815d08d40ef54d146e902333e07e519f046f49157e89affd6cc58e63",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 9 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-10": {
+      "hash": "c112411b65a75d05fc3cb5d5181729f4c5195bde8985283611f1b4e40c84169a",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 10 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-11": {
+      "hash": "fcc5500a73ff79a38d09282c6c3b8b13393ca084e97f1937d06fec1b76d47d61",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 11 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-13": {
+      "hash": "377238ccc2170e269d571a72e387ece63ccda82acddfc80802e3effae86e9bbd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 13 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-15": {
+      "hash": "dc43799b7ded690507f745fec1c77c4b6f7e7cea77f4fe74b7d6f33adcc7ff0f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 15 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-16": {
+      "hash": "83c68033b63f95646c48d6ace32478c92bf85e935003ec14724f77ea50851c6e",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 16 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-17": {
+      "hash": "c55c7d0d537c267b5263f03e5d28894e1ecfa4ff2be1f7c5242b880f7e9fb012",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 17 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-22": {
+      "hash": "13f04bb1e7c3762e3d7627e0017a9c16d0df59807a9559e3d05c7fc180c8619b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 22 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-28": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 28 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-29": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 29 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-04-29?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-04-29?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-04-30": {
+      "hash": "985fc0c12be5efbb4fc7d56e9c4177344d6a301676c4434b00679c6239ced80e",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for April 30 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-01": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 1 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-01?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-01?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-02": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 2 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-03": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 3 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-03?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-03?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-04": {
+      "hash": "0de38d55a5cbca25ed74a5027ef6606a2518fed14d30a40242361f5c349723a2",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 4 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-05": {
+      "hash": "80f9cb75e220562a0e9f74236713fbb7bda1f18eeffdf312b316e6e507e0196b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 5 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-06": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 6 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-06?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-06?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-07": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 7 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-08": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 8 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-08?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-08?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-09": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 9 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-13": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 13 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-14": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 14 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-14?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-14?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-15": {
+      "hash": "c7c278d06e56b1f892ef562dc835d64b5083a82efbf530aa321f0e40406d0d11",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 15 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-16": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 16 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-16?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-16?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-17": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 17 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-26": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 26 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-27": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 27 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-27?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-27?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-05-28": {
+      "hash": "ff8dfba59d3141d8b61c8f8749a5778ae27dcb336f678794dadde7959680ad5d",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 28 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-29": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 29 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-05-29?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/2026-06-01": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for June 1 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-06-02": {
+      "hash": "1d60bb086f72c3fb5fbd80fcbcec804a32433e125a056b91be28c8c316f5f601",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for June 2 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-06-05": {
+      "hash": "6a4d4844ea728b37355e9f1b673d90237715c2e793b2bf83bd73ddd7ab8887c6",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for June 5 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/2026-06-11": {
+      "hash": "972c2756004cdf530b21824f8ce56a0ed644026d6231345e8875f3f6551df432",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for June 11 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/annual-monthly-events": {
+      "hash": "71e02a952c6d9561d7b79731f0b3e231686d15dd9a0971abc4f15fac64d9b582",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Annual & Monthly Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/chamber": {
+      "hash": "3f11ab2811961c07cf73709bd54ab54cdcd4726c78a2498ece0cc4bf9528bad9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Chamber | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/community": {
+      "hash": "ebbe4926e40209ff608cdeb1b3040bd9829e4ba9e05d27135357af420d941975",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Community Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?eventDisplay=past": {
+      "hash": "8f7a18848d5118d2f31f4c441170bdc5e0642f83cea22971817e8aba096804ad",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?shortcode=356c874b": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?shortcode=461d3180": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?shortcode=ff0d634d": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-01": {
+      "hash": "687aaf7c6349049cc5b06af0959de4303bbdef4436881b505f91806e4f2b6b2a",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-29": {
+      "hash": "a4a6b2a15f538818df69734fbaf217a367d3988549cbe1baf94c06fbd6565465",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-30": {
+      "hash": "a4a6b2a15f538818df69734fbaf217a367d3988549cbe1baf94c06fbd6565465",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-30&eventDisplay=past": {
+      "hash": "551a00918d92bcaeb99853b348949f6fe7666cbddf3da2e59312aa9931f1050d",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-01": {
+      "hash": "a2d49282c1d901aa5ff26eaadfe7ae9e3bf6aec7d697b10b4fb14519ebec8b97",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-03": {
+      "hash": "a2d49282c1d901aa5ff26eaadfe7ae9e3bf6aec7d697b10b4fb14519ebec8b97",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-04": {
+      "hash": "a2d49282c1d901aa5ff26eaadfe7ae9e3bf6aec7d697b10b4fb14519ebec8b97",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-04&eventDisplay=past": {
+      "hash": "55c4a49fa9b3fe32b5e57334ad833486d92b7f68c760027b5e97a279df8964f8",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-05": {
+      "hash": "066103c515e6837b9be328ed92c507463baeff480ae3b39064109dda16355cd8",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-05&eventDisplay=past": {
+      "hash": "c7b3a197a29ae476938d6445ed4bafb4cc11940225675bdc0fa2be3d1ebc50c0",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-06": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-08": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-14": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-15": {
+      "hash": "233861758cfb0e67e05cfdee4e2e7c492edc97eb4e47ef8d363e2dcb687727dd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-15&eventDisplay=past": {
+      "hash": "8f7a18848d5118d2f31f4c441170bdc5e0642f83cea22971817e8aba096804ad",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-16": {
+      "hash": "dfdcd38a3fb0b8b4e3a6bbbf11e18d990869268808e89e4d38bb2733ce8bb6c9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-27": {
+      "hash": "dfdcd38a3fb0b8b4e3a6bbbf11e18d990869268808e89e4d38bb2733ce8bb6c9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-28": {
+      "hash": "dfdcd38a3fb0b8b4e3a6bbbf11e18d990869268808e89e4d38bb2733ce8bb6c9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-06-01": {
+      "hash": "a3f6e17ea649bc3cb2ed66e908af0581b26ef1774689545dec42adbd5e50aaa1",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Upcoming Events | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month": {
+      "hash": "2dd4e5dcc5e137a1aa3d906a632a5decd3c0f06041e567369456eb6fbb4e8ad7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month/2026-03": {
+      "hash": "38fc94747e1303e758c9154c7070d253a65cd16a3bbab8ae538181633b13d6b0",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month/2026-04": {
+      "hash": "13248e92f26a1d03beaaa8e7d64cc4d3d08ee8bf19496c68965ad7b530c18b39",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month/2026-05": {
+      "hash": "2dd4e5dcc5e137a1aa3d906a632a5decd3c0f06041e567369456eb6fbb4e8ad7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month/2026-06": {
+      "hash": "ede439666d8fb4b097215c5c23f7ff83b5f055e9793566e8505f3c3896852edd",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month/2026-07": {
+      "hash": "cc6df18058f7e80347872600b260accaba9f67bc81bc1f56514fbe7c8bbd9270",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month?shortcode=356c874b": {
+      "hash": "2dd4e5dcc5e137a1aa3d906a632a5decd3c0f06041e567369456eb6fbb4e8ad7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month?shortcode=461d3180": {
+      "hash": "2dd4e5dcc5e137a1aa3d906a632a5decd3c0f06041e567369456eb6fbb4e8ad7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/month?shortcode=ff0d634d": {
+      "hash": "2dd4e5dcc5e137a1aa3d906a632a5decd3c0f06041e567369456eb6fbb4e8ad7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events Calendar | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/today": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 7 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/today?ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/today?outlook-ical=1": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": ""
+    },
+    "https://metrosouthchamber.com/events/today?shortcode=356c874b": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 7 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/today?shortcode=461d3180": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 7 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/today?shortcode=ff0d634d": {
+      "hash": "7fbd0fd0529e0680910b3cd035366bedd954a3ba7edd625d66fc5467238fde94",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Events for May 7 2026, | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/events/workshops": {
+      "hash": "a1bfceef501ee53c2aafb00d3830e9174df38f28b24279596d1af70e0c5bf60e",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Workshops | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/gbyp": {
+      "hash": "ea22da3511424f7398b55276eb65e0ce1e66eb06bfae91bbe427c8bd1d2583cc",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Greater Brockton Young Professionals | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/leadership-metro-south": {
+      "hash": "8d53bcc7ba72eb111967a8ec254b1ec7a504ba8131672b113a4341b3bf4e9a44",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Leadership Metro South | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership": {
+      "hash": "97cd6ace721bee5424deb3c8c518c2cfa2158e586107f594d7926319dcd41e36",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Membership | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/advertising": {
+      "hash": "424bb109b25cd01b0dee14c4e4ff8f7b2d04e5a48d3470e5e97e9e438d047d70",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Advertising | Metro South Chamber of Commerce Brockton MA"
+    },
+    "https://metrosouthchamber.com/membership/benefits": {
+      "hash": "a6f83ef52d3128e68a720ef0ecaacd143cd4b2d10641c3c3afa058712860a009",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Chamber Member Benefits | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/directory": {
+      "hash": "90e91292f9d1706bdfee02833dd35aab0edab6ab5fe5ceca7036a232e8c13b68",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Directory | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/health-insurance": {
+      "hash": "1a7335a0571f16b840f35957e6e6541770e9632985f7b3ec9279a0bfb85d62bf",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Health Insurance | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/join": {
+      "hash": "e5a49a53496fbbf9b19c7ab608e1f20da13fa2f61e16e21df8a912801ad0ea8c",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Join the Chamber | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/member-login": {
+      "hash": "34b64892a9b1e9650cf5a6023c8088bdae22e04a509022d07a2754f6a31409e0",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/plaque": {
+      "hash": "314ba8ffea1961fc112cbb504747a91cea9df98413821f7537b079d8aeda5693",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Virtual Plaque | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/savings": {
+      "hash": "3fe93430cb805cd198ae1b0a5d51806f048f81044df62284366655b4a306a728",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Chamber Member Discounts | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/membership/sponsorship": {
+      "hash": "4a2530aeba85e9d5776ac9c63a5091d102df1cf7880d0fb9992581a5d8140443",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Sponsorship Opportunities | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media": {
+      "hash": "b0480eb92a633254dfd979c17cde49317c2a2132ac9ba35757f0516c00b92034",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "News & Media | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media/action-report": {
+      "hash": "15588d626bfaac6654600975afb8849b56ae35e54c550a41de066dd936332308",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Monthly Business Action Report | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media/blog": {
+      "hash": "f2afff02fd1da02088c231fbcc71332bb58efb62c6e3a6f2eac1733add9af083",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "News | Brockton MA | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media/chamber-videos": {
+      "hash": "60584cdba7f57860d0c77c00ddf90140cbd2485644b0f0f05f57150fc727b5e3",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Videos | Brockton MA | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media/e-update": {
+      "hash": "ff3624d7e4e48596c9b8c2a51e67ad3af89d5e7470e185427bfb72e244da2504",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "E-Update | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media/guide": {
+      "hash": "09975676980a9171bbc06f5b397ff1bcd1aea4beb9c61e9ef183cbbb3f9879c5",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Member Directory & Guide | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/news-media/portfolio": {
+      "hash": "67841213f78782fade1efc82973b78120dd0b5ebab187b3dafdede27a95d19c8",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Chamber Photos | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/programs/donate": {
+      "hash": "21264f120bd74c528b2c60ac9b774b496d648c7c457630cec71654a066dd7047",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Donate to the Foundation | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/programs/redo": {
+      "hash": "024ee52c10d4564d92eb07ea3a4532a4d8dbb7fdf4af8a7450422bafc1e50aa5",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Regional Economic Development Organization (REDO) | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region": {
+      "hash": "cf2b3b78038af9acc96a785eed5a92b820d8a21ee58d3c1637c763ab79f8c2f3",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Visit the Region | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/aboutregion": {
+      "hash": "0b6bc5bcd8a9f2d9035e7eba3c3ca0b50d74efa71b062da53766afd503a0192f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Visit Metro South Region | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/amusement": {
+      "hash": "a675ca3d97ac3bafea2353aa8ad7adb7072b806000917984ca7041b0dbc762f0",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Amusement | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/communities": {
+      "hash": "fb1aa7937440c5e3f80a723e59d25e111638da08d6ff8ca1d7703d3f356db87b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Communities | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/cultural": {
+      "hash": "96f8dfd8c923c05565ec7fb9e12d9f50b89246de19ac612bc8ab815742e692d7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Cultural Attractions | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/employment": {
+      "hash": "3c2d807b4cc325957e360eb63e1a9f0316817253e1d7d1b21fca99bd2ad79569",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Employment in Metro South | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/movies": {
+      "hash": "70d7b85f84612eaf8ccb382f3a27c304029cb5d90b04d1e1302eebde54171f6a",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Movies | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/parks": {
+      "hash": "64d7e508456a9d48d739064eab5dee306b7da7c83cd2c8065bf1e89e22c16e8c",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Parks | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/shop-local": {
+      "hash": "cbdb89a764bcc811ef0546550a4597b5b5925aed7aa773f33c9cf2496429b5e9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Shop Local MA | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/shopping": {
+      "hash": "6e2d4acb30e5e117214f339f91595cd659bd2350411736d37c253ac567332207",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Shopping | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/sports": {
+      "hash": "8fe740195103f9a91024311393fd618ab07966ab8422bd57b61e2d7b33aaa6d7",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Sports | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/where-to-eat": {
+      "hash": "9841ee53ed522ec57168871edaaca161891cf841953c96fa2efbf378c94f3765",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Restaurants | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/region/where-to-stay": {
+      "hash": "0461cb98bb05fc94caafbb7f9265b51cea5a21d4fe93deca86e8f3ebb4a7788e",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Hotels | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources": {
+      "hash": "607307daa59f67c4dc44e5299be3b5d8924cbe4ccc9ed0caf0fca345a38cef52",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Resources | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/%20building-resource-partners": {
+      "hash": "b62cf0bfd1b7ca5ea250e8d3f7a5c1ed3fad31ee08e25eb0da5a3f02caada49a",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Assistance Partners | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/brocktonloans": {
+      "hash": "75a64843103f1034aa756c9e561f03eaec922a73235c220893740ef30f8875e1",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Brockton Business Loan Program | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/building-resource-partners": {
+      "hash": "b62cf0bfd1b7ca5ea250e8d3f7a5c1ed3fad31ee08e25eb0da5a3f02caada49a",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Assistance Partners | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/business-assistance": {
+      "hash": "e8afc33260ebf071497a1d1f05bbcd9367dd87bd20ad5a437b3b8d7a92d14cc3",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Assistance Center | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/covid-19-resource-guide": {
+      "hash": "ba75f6c19a73367986e929d3a4773a72ba271fffa658c23a7d96ff49da82bd3f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "COVID-19 Resource Guide | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/find-a-business": {
+      "hash": "90e91292f9d1706bdfee02833dd35aab0edab6ab5fe5ceca7036a232e8c13b68",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Directory | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/incubator": {
+      "hash": "d14ed838a1019c7446e08062929888c1b0daef32c71281a4dcb2590ac8a10383",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Incubator | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/partners": {
+      "hash": "e8afc33260ebf071497a1d1f05bbcd9367dd87bd20ad5a437b3b8d7a92d14cc3",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Assistance Center | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/studies": {
+      "hash": "90c7040141bd49bae789fbc0584dae970f3e5c101463fa287bdea993a0b0f103",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Regional Studies | Metro South Chamber of Commerce"
+    },
+    "https://metrosouthchamber.com/resources/your-legislator": {
+      "hash": "4eb79bd61ae8fb450122371199c173800ee9b9f7c73706339b523632772a15d5",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Contact Your Legislator | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/": {
+      "hash": "909b3589bebb798096d268c255040d6b3139d6c8578926a67422e4e0923ba601",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Chamber of Commerce | Brockton, Massachusetts"
+    },
+    "https://www.metrosouthchamber.com/events/annual-monthly-events": {
+      "hash": "71e02a952c6d9561d7b79731f0b3e231686d15dd9a0971abc4f15fac64d9b582",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Annual & Monthly Events | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/events/legislative": {
+      "hash": "182804fa887ad0717ebfb292edc16ce5b413b081d50641e91f86f1801cf1177a",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Legislative Luncheon: State of the City/Region Hosted by Chamber | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/events/workshops": {
+      "hash": "a1bfceef501ee53c2aafb00d3830e9174df38f28b24279596d1af70e0c5bf60e",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Workshops | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/membership/advertising": {
+      "hash": "424bb109b25cd01b0dee14c4e4ff8f7b2d04e5a48d3470e5e97e9e438d047d70",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Advertising | Metro South Chamber of Commerce Brockton MA"
+    },
+    "https://www.metrosouthchamber.com/membership/join": {
+      "hash": "e5a49a53496fbbf9b19c7ab608e1f20da13fa2f61e16e21df8a912801ad0ea8c",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Join the Chamber | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/membership/savings": {
+      "hash": "3fe93430cb805cd198ae1b0a5d51806f048f81044df62284366655b4a306a728",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Chamber Member Discounts | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/membership/sponsorship": {
+      "hash": "4a2530aeba85e9d5776ac9c63a5091d102df1cf7880d0fb9992581a5d8140443",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Sponsorship Opportunities | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/news-media/action-report": {
+      "hash": "15588d626bfaac6654600975afb8849b56ae35e54c550a41de066dd936332308",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Monthly Business Action Report | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/news-media/e-update": {
+      "hash": "ff3624d7e4e48596c9b8c2a51e67ad3af89d5e7470e185427bfb72e244da2504",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "E-Update | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/region/aboutregion": {
+      "hash": "0b6bc5bcd8a9f2d9035e7eba3c3ca0b50d74efa71b062da53766afd503a0192f",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Visit Metro South Region | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/region/communities": {
+      "hash": "fb1aa7937440c5e3f80a723e59d25e111638da08d6ff8ca1d7703d3f356db87b",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Metro South Communities | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/region/shop-local": {
+      "hash": "cbdb89a764bcc811ef0546550a4597b5b5925aed7aa773f33c9cf2496429b5e9",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Shop Local MA | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/resources/business-assistance": {
+      "hash": "e8afc33260ebf071497a1d1f05bbcd9367dd87bd20ad5a437b3b8d7a92d14cc3",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Business Assistance Center | Metro South Chamber of Commerce"
+    },
+    "https://www.metrosouthchamber.com/resources/your-legislator": {
+      "hash": "4eb79bd61ae8fb450122371199c173800ee9b9f7c73706339b523632772a15d5",
+      "last_changed_at": "2026-05-07T14:11:57Z",
+      "last_seen_at": "2026-05-07T14:11:57Z",
+      "title": "Contact Your Legislator | Metro South Chamber of Commerce"
+    }
+  },
+  "pdfs": {
+    "http://files.ctctcdn.com/92a5bb17be/9aacddea-49de-466f-8360-3893537c4e6b.pdf": {
+      "downloaded_at": "2026-05-07T14:11:58Z",
+      "filename": "9aacddea-49de-466f-8360-3893537c4e6b.pdf",
+      "hash": "7dc6f7af4b1570785d96f42a1a3288f76671d94424af43ae11a34e91bab13605",
+      "month_label": "9aacddea",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/AprilAR2007.pdf": {
+      "downloaded_at": "2026-05-07T14:12:00Z",
+      "filename": "AprilAR2007.pdf",
+      "hash": "2422fff63edb2bcd0056d6ede789d0df462d8f72ed35d5cefc653d541ac96d0c",
+      "month_label": "Aprilar2007",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/FebAR2007.pdf": {
+      "downloaded_at": "2026-05-07T14:12:00Z",
+      "filename": "FebAR2007.pdf",
+      "hash": "004cc14f83a28bfb63f1ab12f10d02cc72e6e61bb01e5da3017fb020502fa14e",
+      "month_label": "Febar2007",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/Jan_AR_2007.pdf": {
+      "downloaded_at": "2026-05-07T14:12:02Z",
+      "filename": "Jan_AR_2007.pdf",
+      "hash": "47c133c5d853bce91658383a50c21f671bc37dcbbe4c9060be6189671ff1cc51",
+      "month_label": "Jan_ar_2007",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/June07_AR.pdf": {
+      "downloaded_at": "2026-05-07T14:12:03Z",
+      "filename": "June07_AR.pdf",
+      "hash": "c345c75c4d889110abfa2896f6f5c6ceb60f18f20faad635d096463f3cf91072",
+      "month_label": "June07_ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/March_AR_2007.pdf": {
+      "downloaded_at": "2026-05-07T14:12:04Z",
+      "filename": "March_AR_2007.pdf",
+      "hash": "160d9a722ce043e6246f5d15c14975812ca71b6a4066b0380c287536b631c16d",
+      "month_label": "March_ar_2007",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/May07ActionReport.pdf": {
+      "downloaded_at": "2026-05-07T14:12:05Z",
+      "filename": "May07ActionReport.pdf",
+      "hash": "15ddd2fe777f2286a336e1d07f1120aa61b8abfd01bdc325a4b5b3b849beaa50",
+      "month_label": "May07actionreport",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:07Z",
+      "filename": "april09ar.pdf",
+      "hash": "4504f6412467db42bdeddec55846b3b847c6cb60de7b9c8fa6ed1a022c22b11f",
+      "month_label": "April09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:09Z",
+      "filename": "april10ar.pdf",
+      "hash": "e985a53c6b54820c47512dd91624a8f6dc54f663e69f223b10d67b9dbd46da1b",
+      "month_label": "April10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:11Z",
+      "filename": "april11ar.pdf",
+      "hash": "c414ecb2ea34ed4688e2c46ce085f9196af2582e644558f454ab7daf7579c536",
+      "month_label": "April11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:12Z",
+      "filename": "april12ar.pdf",
+      "hash": "b5518f00edbef683a44db8f90cd707d3d444409b18fd86911e2c68e81c5e7edd",
+      "month_label": "April12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:13Z",
+      "filename": "april13ar.pdf",
+      "hash": "bcbd7ba68731d0ee1dc520f32ba4f6fdcbcdfb04b03adced2fb748d447f0b236",
+      "month_label": "April13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:14Z",
+      "filename": "april14ar.pdf",
+      "hash": "d9273e512d33bf65aa7acf2b68801d4891b351a9df9e1b5481f3f4affce4f93c",
+      "month_label": "April14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:16Z",
+      "filename": "april15ar.pdf",
+      "hash": "8c3cc4f38fe66d9d860c2a3cb1cb69a9790947aa1e2c9111f8c09ae7b18ef7e9",
+      "month_label": "April15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:17Z",
+      "filename": "april16ar.pdf",
+      "hash": "7b4c5103f9bc6513f5c459d9a0de00d247cae6523df7b3386f612bb3cdd9b2cb",
+      "month_label": "April16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/april17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:19Z",
+      "filename": "april17ar.pdf",
+      "hash": "da727738ed081e565c306d2386b495e25bb2fd97ac8f826879faae5b97ab894f",
+      "month_label": "April17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:21Z",
+      "filename": "dec08ar.pdf",
+      "hash": "c8666cede57ebc9580303281b690c451b86630935d5f1b239afaf0395fa7fdce",
+      "month_label": "Dec08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:23Z",
+      "filename": "dec09ar.pdf",
+      "hash": "17fabb591783c8cd9e6946413c03ea2942424a4d9777922f1f3780b2c4f48666",
+      "month_label": "Dec09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:26Z",
+      "filename": "dec10ar.pdf",
+      "hash": "286226a8ca719cbeee6af1898b8547595fe39de5911a824191ddb4907be44dcc",
+      "month_label": "Dec10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:29Z",
+      "filename": "dec11ar.pdf",
+      "hash": "4342afbc927e8e54d76d9aff200f84f7ec9e4f836d4688e8b25e12bcecdb80ac",
+      "month_label": "Dec11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:31Z",
+      "filename": "dec12ar.pdf",
+      "hash": "fa7f7c38024fa92125dcbcd2369aaf708bd96eafd2746b4b9196a4d1824dcac8",
+      "month_label": "Dec12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:33Z",
+      "filename": "dec13ar.pdf",
+      "hash": "7ddd33c38a73943b5d11f5d6474466747635e8468fc3fdd78eb1dd01192e6a30",
+      "month_label": "Dec13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:35Z",
+      "filename": "dec14ar.pdf",
+      "hash": "167ad65e900f069a1f27d4407fc6689508cac8be251076888539eb0ff4dfb100",
+      "month_label": "Dec14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:37Z",
+      "filename": "dec15ar.pdf",
+      "hash": "58a54f49a4270360a44f440b7821c0f8cbaea6739c815640ff889a7edc21c227",
+      "month_label": "Dec15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/dec16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:39Z",
+      "filename": "dec16ar.pdf",
+      "hash": "3377482610c7fde1c771513ba69a9491c542f934fa59079c04b989e4c084b5e2",
+      "month_label": "Dec16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/december07AR.pdf": {
+      "downloaded_at": "2026-05-07T14:12:40Z",
+      "filename": "december07AR.pdf",
+      "hash": "6904effd53bd75c855c85935bbc30039420c8c6f8316d345e63ac498c87a94bb",
+      "month_label": "December07ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:42Z",
+      "filename": "feb08ar.pdf",
+      "hash": "712104b4791832a7b96d654bbe1c15567d0a110c367d30998e98f0a598e36848",
+      "month_label": "Feb08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:45Z",
+      "filename": "feb09ar.pdf",
+      "hash": "371cae55bd897df6d685a12d9d6e79ef49d1c853b18c373e761006496752618b",
+      "month_label": "Feb09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:47Z",
+      "filename": "feb10ar.pdf",
+      "hash": "ed6bfc340f1e7b3c39395f2562345b61f2ccd40be4c9de2c1195dc6ca0285e09",
+      "month_label": "Feb10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:48Z",
+      "filename": "feb12ar.pdf",
+      "hash": "0e6424c77ac860d06985dac63765e5ea76747b2742030aa64e852ee54c69e34f",
+      "month_label": "Feb12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:49Z",
+      "filename": "feb13ar.pdf",
+      "hash": "3152f32c0d3f5949455674c6024d1bbd543e1e353dad93906b13b68c353cd440",
+      "month_label": "Feb13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:51Z",
+      "filename": "feb14ar.pdf",
+      "hash": "b833b56a38c19883cd53d7e9ca8bd637effbb1ecffe918fb445ca5c337f43736",
+      "month_label": "Feb14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:53Z",
+      "filename": "feb15ar.pdf",
+      "hash": "47f82557d049cdaffbca895b5198ca4041388e17e96a8e042841eed7a3d6bb42",
+      "month_label": "Feb15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:54Z",
+      "filename": "feb16ar.pdf",
+      "hash": "8e5063c68da73798222c23c4a5ec632487a5328bdd85b574c592ed3fe473cbeb",
+      "month_label": "Feb16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/feb17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:56Z",
+      "filename": "feb17ar.pdf",
+      "hash": "377500383f36d3bcd5095021fb355279e602e97a8c663e8fccfc6a34f47a32ef",
+      "month_label": "Feb17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:57Z",
+      "filename": "jan08ar.pdf",
+      "hash": "7a8e653b61b9f21e738c6823c4e88bad88724d2adac08abe010eeb590bddc90b",
+      "month_label": "Jan08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:12:58Z",
+      "filename": "jan09ar.pdf",
+      "hash": "cf4a584b9ec97c529b5d137b241f78c7771a36399689070ffe976c414342303a",
+      "month_label": "Jan09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:00Z",
+      "filename": "jan10ar.pdf",
+      "hash": "f87350a93d902acf66fc7def48671ca4b81cb224c86edf8a60855c10e9554eea",
+      "month_label": "Jan10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:02Z",
+      "filename": "jan11ar.pdf",
+      "hash": "b4462cdd674fd4aafbe86b9bbbe477c19fe7feba2e10999c91122376b30e3ccf",
+      "month_label": "Jan11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:03Z",
+      "filename": "jan12ar.pdf",
+      "hash": "8af886d5830be160f80124109099e15e8897750870dc76a5ae224dcae3c25dce",
+      "month_label": "Jan12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:04Z",
+      "filename": "jan13ar.pdf",
+      "hash": "6d79aebdedd3219ebb10a624c2c57389aea4fa5f38e68e4fe5024755e68d3207",
+      "month_label": "Jan13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:04Z",
+      "filename": "jan14ar.pdf",
+      "hash": "9a2435d8feed786e29e4d08e374286a03e9050bb39e9ede014718abf17d6a69f",
+      "month_label": "Jan14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:05Z",
+      "filename": "jan15ar.pdf",
+      "hash": "343207c65632848764f593929d1d8e2729786e8c62f3102c9f3a42c4ad03d4d9",
+      "month_label": "Jan15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:05Z",
+      "filename": "jan16ar.pdf",
+      "hash": "8bf20af609738dc26f52bdc62114669b7e9c3ad04ba519bea3a9c7146dbc7c10",
+      "month_label": "Jan16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/jan17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:07Z",
+      "filename": "jan17ar.pdf",
+      "hash": "c5654937591802924a672dce370021c7c6e98513eb900888ed99973bc5ab7c6d",
+      "month_label": "Jan17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/july.augustAR07.pdf": {
+      "downloaded_at": "2026-05-07T14:13:08Z",
+      "filename": "july.augustAR07.pdf",
+      "hash": "f74e0e8d3b6b13fae8aac4646357e461453165270e48dedd9346ac45a15ecb6a",
+      "month_label": "July.augustar07",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:08Z",
+      "filename": "julyaug08ar.pdf",
+      "hash": "26326c850b40744774f445d4884aa0f0270d9fbce812640056142fcf2e9ad57e",
+      "month_label": "Julyaug08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:10Z",
+      "filename": "julyaug09ar.pdf",
+      "hash": "5b9454deca85eaecc976b07aba44b1c978d3abfef915e95b84897ac6211f8b5c",
+      "month_label": "Julyaug09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:11Z",
+      "filename": "julyaug10ar.pdf",
+      "hash": "5fda807d33d2ad88429ac996f75800c46e030ab40ebe96954e72f3a800f37621",
+      "month_label": "Julyaug10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:13Z",
+      "filename": "julyaug11ar.pdf",
+      "hash": "2d5a331f67a8a0ebe4b1b510139ae21217daf6a19247a50a205f7963b510058a",
+      "month_label": "Julyaug11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:14Z",
+      "filename": "julyaug12ar.pdf",
+      "hash": "3c6cc240904bffe118c1ef602b386c5a057f45a929b195d8f9fd31799cd4a9b7",
+      "month_label": "Julyaug12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:15Z",
+      "filename": "julyaug13ar.pdf",
+      "hash": "9b9812203c4f1988f9cfc1ef1674807cfe53bf2d4468ee4ef7d20c7b443501de",
+      "month_label": "Julyaug13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:15Z",
+      "filename": "julyaug14ar.pdf",
+      "hash": "1f5430d205d3fa20aecaf9643b199e3b91863102122d3425fb6f991e033beca5",
+      "month_label": "Julyaug14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:16Z",
+      "filename": "julyaug15ar.pdf",
+      "hash": "43bf13b56b16216dc4a06a9c5d843aa3810f3c55ead040420fe34b226f33cf97",
+      "month_label": "Julyaug15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:17Z",
+      "filename": "julyaug16ar.pdf",
+      "hash": "83161aa01ee13cac0d6e09be0a183328bf08e520876b8a69cd829539c1daf427",
+      "month_label": "Julyaug16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/julyaug17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:18Z",
+      "filename": "julyaug17ar.pdf",
+      "hash": "0848df9e4379ca4840e134b72b0505ddc4c764f8ab496d78b9928fd3f6579965",
+      "month_label": "Julyaug17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:18Z",
+      "filename": "june08ar.pdf",
+      "hash": "c0c22a7ce965de9178f33c06dc6a7155f1280f87b97a037b671d3384f44c4846",
+      "month_label": "June08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:20Z",
+      "filename": "june09ar.pdf",
+      "hash": "33ffd95c71b49e7c2ea464e3c57f3cb979ab1ab5ee908e29a7f0f2417881517c",
+      "month_label": "June09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:21Z",
+      "filename": "june10ar.pdf",
+      "hash": "8cc01f0b0175f8b589ac6f524e8e99d9844e1dc94912b68783d1e93c3f185ab0",
+      "month_label": "June10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:22Z",
+      "filename": "june11ar.pdf",
+      "hash": "a90221ae446d4e99c1fd85a96c65eb529a1958a16b65dddcd528026cbdcf3d7d",
+      "month_label": "June11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:23Z",
+      "filename": "june12ar.pdf",
+      "hash": "be5e2b69d3afd0a224c67a0c9d0ffa9203a730d590fcc5049e9538ac56c123ee",
+      "month_label": "June12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:23Z",
+      "filename": "june13ar.pdf",
+      "hash": "8db286774672dde21e57c3fe73754459dbb825c54b191fe04d115c34ed53b3b5",
+      "month_label": "June13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:24Z",
+      "filename": "june14ar.pdf",
+      "hash": "2dce44a0984c50e4f5f80053e69c76a2d6135c207b2abcd4751be6692128e944",
+      "month_label": "June14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:25Z",
+      "filename": "june15ar.pdf",
+      "hash": "14f101845f6099bd807a30b8603da506f1c44ca03c280fb6f0cb9500ed297ae6",
+      "month_label": "June15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/june17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:25Z",
+      "filename": "june17ar.pdf",
+      "hash": "b5fdc343992c7a5ce8c7cc90396bfb993587d5a83616d5f14a92735cdc30e004",
+      "month_label": "June17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/mar08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:27Z",
+      "filename": "mar08ar.pdf",
+      "hash": "078fdeece2860014e031844d76736cedf3110da10189f1e8a3867687265842f3",
+      "month_label": "Mar08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:29Z",
+      "filename": "march09ar.pdf",
+      "hash": "bec7e7d2655f6bdf2909a23b19fc4514bbcd9e8a4ddc386d797e75c59a7c4852",
+      "month_label": "March09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:31Z",
+      "filename": "march10ar.pdf",
+      "hash": "5161e3e8133a073f6393434ac7d655d377c8c1d13878f1dd368444548d195fdd",
+      "month_label": "March10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:33Z",
+      "filename": "march11ar.pdf",
+      "hash": "5e89aca4644b9c6de9dd9db80f879463bdbff4998940e9684f72c07f350dfad0",
+      "month_label": "March11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:33Z",
+      "filename": "march12ar.pdf",
+      "hash": "981f47e2d0154beac4570f0a5f6623e91b80f80821ba58fea15a3f9029146bbf",
+      "month_label": "March12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:34Z",
+      "filename": "march13ar.pdf",
+      "hash": "8d5eb4cac736d5f206535d49b35a6130a332ad30ce6711b7250d696965ed6caf",
+      "month_label": "March13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:35Z",
+      "filename": "march14ar.pdf",
+      "hash": "080ff7f9766547cb164f99040fbb920b3127a5840444e37857ed095a8dc8385d",
+      "month_label": "March14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:36Z",
+      "filename": "march15ar.pdf",
+      "hash": "d2f35c4491ba3b45a1b9a53bf7b029fced0f8b5c01c2c566743bb958aca2f749",
+      "month_label": "March15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:36Z",
+      "filename": "march16ar.pdf",
+      "hash": "a26b37c51eb30f6f9bb3fb7865f0fd8ebe07c44021a06679f1bdaf4ae43e601d",
+      "month_label": "March16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/march17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:37Z",
+      "filename": "march17ar.pdf",
+      "hash": "6ea2e405e033f8cb2b45eaa0b288307001eda949274bc1330dcbe20767ac7d0b",
+      "month_label": "March17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:38Z",
+      "filename": "may08ar.pdf",
+      "hash": "813699c384bb21578f23b6e3974c47e7687ce32f68877fe4bdaa438fdba4fd28",
+      "month_label": "May08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:38Z",
+      "filename": "may09ar.pdf",
+      "hash": "194e802a232910390c6bb734d3d9719567bc5541c49c5fad9666710a1ef336c3",
+      "month_label": "May09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:39Z",
+      "filename": "may10ar.pdf",
+      "hash": "1954c4c601ae2002d419bfd8ade30e42098bb58728b16197c47b2c39aab08a9a",
+      "month_label": "May10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:40Z",
+      "filename": "may11ar.pdf",
+      "hash": "69011cc7a8517cf19365d19b4d3578411a11833fad4272195403845f804c2a99",
+      "month_label": "May11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:41Z",
+      "filename": "may12ar.pdf",
+      "hash": "63fcf0dd25cccc7e667ec2b2ec3714b8ca42146046b4c91083e1c3105802e15b",
+      "month_label": "May12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:43Z",
+      "filename": "may13ar.pdf",
+      "hash": "a45fc25999f0b89f87c897b410dfb9a8dd5d869a951beeed01872b76be8458b0",
+      "month_label": "May13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:43Z",
+      "filename": "may14ar.pdf",
+      "hash": "a89c328aa29f80967d7c9fc5dada5e578d2dc265ee33dcf3f3adb99a61be7dd9",
+      "month_label": "May14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:44Z",
+      "filename": "may15ar.pdf",
+      "hash": "c958ce3896ceb111e402a64ea8b1e2394acacee0819c8818625942194bfcfcff",
+      "month_label": "May15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:45Z",
+      "filename": "may16ar.pdf",
+      "hash": "bd19fb7b76db570314b251f73ae6931eb7c5ed0604d00369a299bb37d782db5c",
+      "month_label": "May16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/may17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:46Z",
+      "filename": "may17ar.pdf",
+      "hash": "33c91b0172ff5ced5b003a9a3e6889578c908b2933a0447a07411ba1f91150fb",
+      "month_label": "May17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:47Z",
+      "filename": "nov08ar.pdf",
+      "hash": "36d602f2f00a4f4c83933df9b7245e3dd7c7263a012a054a293c13fcac5d43b0",
+      "month_label": "Nov08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:48Z",
+      "filename": "nov09ar.pdf",
+      "hash": "01bf7482e07d73721d625ba9307003885ce2cf64cc2a72f47cd8c560a3b5fb93",
+      "month_label": "Nov09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:49Z",
+      "filename": "nov10ar.pdf",
+      "hash": "844567f7822f46fb9d80e8b03201ccb367a7ed4f0066e147c94d3db6359491b0",
+      "month_label": "Nov10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:53Z",
+      "filename": "nov11ar.pdf",
+      "hash": "5909cadbd46785b0116300d3c68c25c7b03f16d0bd9d1a29ba664a3a38e3263c",
+      "month_label": "Nov11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:54Z",
+      "filename": "nov12ar.pdf",
+      "hash": "fb728df08941de15eb3cf1a7978bb6d0185fdbadac27ebc6f2362a1630dfc6e3",
+      "month_label": "Nov12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:55Z",
+      "filename": "nov13ar.pdf",
+      "hash": "65499cb364efc2ccbf2230f8678c1465a58d38ce05506d4de34db8259de42f54",
+      "month_label": "Nov13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:56Z",
+      "filename": "nov14ar.pdf",
+      "hash": "f7f9c98d6ceacb2127e79be9db4fdd721eea7b9f6eb0ee19585832ee7430ac96",
+      "month_label": "Nov14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:56Z",
+      "filename": "nov15ar.pdf",
+      "hash": "93f7ae4997138b759a204bdbd95a9a653fd3be5c4a39fc2014d7a5c9b6eb8748",
+      "month_label": "Nov15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/nov16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:57Z",
+      "filename": "nov16ar.pdf",
+      "hash": "9a074083817400608c782895913ae03382f5709ce3c59a817f1ecbb55f650ffb",
+      "month_label": "Nov16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/novemberar2.pdf": {
+      "downloaded_at": "2026-05-07T14:13:58Z",
+      "filename": "novemberar2.pdf",
+      "hash": "15ea67510ab131c4f628b088af2e03a20ee7c5318c641b7c7cfd3c1bbfdb4dc8",
+      "month_label": "Novemberar2",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:13:59Z",
+      "filename": "oct08ar.pdf",
+      "hash": "d222604a689202cbac20385e0dc50693b8a3fb6701a2e22f46d2816f9af2be7f",
+      "month_label": "Oct08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:00Z",
+      "filename": "oct10ar.pdf",
+      "hash": "eb5f5d4ee548859c2ed89969cd33b96cf56150d96748902ebb4dd5f015b6bc40",
+      "month_label": "Oct10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:02Z",
+      "filename": "oct11ar.pdf",
+      "hash": "83fdb7beac9838898288c21ec5ae758cdc1efd11027177833525804c051d83bd",
+      "month_label": "Oct11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:02Z",
+      "filename": "oct12ar.pdf",
+      "hash": "36ad8869374da7fa313db2ac05318ba4d1e868da36f907bfe8dec0a867d6d6aa",
+      "month_label": "Oct12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:03Z",
+      "filename": "oct13ar.pdf",
+      "hash": "d836ab625aaf6183d4bd000a35d87a711e87a19d0f7f04dcb6db5256b98abdcf",
+      "month_label": "Oct13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:04Z",
+      "filename": "oct14ar.pdf",
+      "hash": "59be9dfa59e1801029f77867c985d5eff1b52e8108964863ceea37df3969d114",
+      "month_label": "Oct14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:04Z",
+      "filename": "oct15ar.pdf",
+      "hash": "d279a16bb8de3197d13790b276e0cc1a93e93bb1fa36b6b5f543296586d11fca",
+      "month_label": "Oct15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/oct16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:05Z",
+      "filename": "oct16ar.pdf",
+      "hash": "7dfb4c14f571618984088c08c75c1882da423e2eb044a9c4e2e59ba06989be9a",
+      "month_label": "Oct16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/october07AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:05Z",
+      "filename": "october07AR.pdf",
+      "hash": "bb1972035a9e85ca4c7b1bb5982bef4ce8827712b4798a43a18d2dadd0d74e19",
+      "month_label": "October07ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/october09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:07Z",
+      "filename": "october09ar.pdf",
+      "hash": "8a47a9bd8f15754f3892f62dfabfe8cbdbbaf1bffaf9af8361332956a9613a60",
+      "month_label": "October09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sep08ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:07Z",
+      "filename": "sep08ar.pdf",
+      "hash": "600f76f0287c0d5d2aa79d95b595d65c61988bbe34c729938d1e0d8f6616af51",
+      "month_label": "Sep08ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sep11ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:08Z",
+      "filename": "sep11ar.pdf",
+      "hash": "c03615de02b430e956ef7ce0c729d3804c6aa56e3d033fbefd9157de20d85ee1",
+      "month_label": "Sep11ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept09ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:09Z",
+      "filename": "sept09ar.pdf",
+      "hash": "d70edbe32cc68d6840747804aa24770d1e6f25bfd5ddbe9c449fa0fbd9ff6191",
+      "month_label": "Sept09ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept10ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:09Z",
+      "filename": "sept10ar.pdf",
+      "hash": "1a3bc6281f6c23db847cc6a1ec47ac489b22a40976fa9f6a622297e2e2b1bd71",
+      "month_label": "Sept10ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept12ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:10Z",
+      "filename": "sept12ar.pdf",
+      "hash": "3bcb49a55334f1e63da880769241373c78e3d15927aa867d212a2c2ec7027db2",
+      "month_label": "Sept12ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept13ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:11Z",
+      "filename": "sept13ar.pdf",
+      "hash": "249f2404f5adf872153467b6e5307321d87667d6c93d8d527f433891f2cc1df1",
+      "month_label": "Sept13ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept14ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:12Z",
+      "filename": "sept14ar.pdf",
+      "hash": "5a2217af78a5d743b2f3457e8dac1cd34ec8786ca02b1b0cf50b71d676c3d725",
+      "month_label": "Sept14ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept15ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:13Z",
+      "filename": "sept15ar.pdf",
+      "hash": "20a434c1711d569547a189c5014cd158b82bca9cf02ec8da53f88e01caf3dfff",
+      "month_label": "Sept15ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/sept16ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:14Z",
+      "filename": "sept16ar.pdf",
+      "hash": "4e5cf67268f5a00185ac543d42e554275c7a581be8e9c73b29ee6ad66247b287",
+      "month_label": "Sept16ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/pdf/september07AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:15Z",
+      "filename": "september07AR.pdf",
+      "hash": "3bfc995c1eb3368651d53c5b12b43b41e188a4e92ffce71ec13fc918d2559ae1",
+      "month_label": "September07ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2012/05/Jun17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:17Z",
+      "filename": "Jun17ar.pdf",
+      "hash": "1c89899658497c24d615ea3dc6ad5d843e5078f9109ab5e37163a2e4d83e3387",
+      "month_label": "Jun17ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/05/jan18ar.pdf": {
+      "downloaded_at": "2026-05-07T14:14:18Z",
+      "filename": "jan18ar.pdf",
+      "hash": "cb2eaae5bcbf092e419209c7752ee985127625a1645e3a2ecce0c1387c1ab89f",
+      "month_label": "Jan18ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/April-18-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:19Z",
+      "filename": "APR-18-AR.pdf",
+      "hash": "18cf7b97d279baffadfb77a388b1f25a495c397784ed1a776555a44c9c8209af",
+      "month_label": "April 2018 Action Report",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/FEB18AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:20Z",
+      "filename": "FEB18AR.pdf",
+      "hash": "46e61efe33bd2685485bace8e2a499b6cca2e3789b6392f3984dd6601211d98c",
+      "month_label": "Feb18ar",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/June-18-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:21Z",
+      "filename": "JUN-18-AR.pdf",
+      "hash": "0c27a71ec0962b6b6068458ac7b2a1a2f79e08a97eec8d46a01037d7dc91493e",
+      "month_label": "June 2018 Action Report",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/MAR-18-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:23Z",
+      "filename": "MAR-18-AR.pdf",
+      "hash": "6b5cd38e5e498239ccbf28e1ab9a898b1c39bfb13bb4f611609a07e3d55e2202",
+      "month_label": "March 2018 Action Report",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/May-18-AR_.pdf": {
+      "downloaded_at": "2026-05-07T14:14:24Z",
+      "filename": "MAY-18-AR.pdf",
+      "hash": "67fe8f3b462647ba0b47bc3a4ae8bf8019a67e55c1b2555604462b3e31afc9c3",
+      "month_label": "May 2018 Action Report",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/07/july-august-18-AR-2.pdf": {
+      "downloaded_at": "2026-05-07T14:14:26Z",
+      "filename": "JULYAUG-18-AR.pdf",
+      "hash": "8f762173846ec8877f5b3d96e39267110b50808c7a11e9bbd487a2e14f473946",
+      "month_label": "July/August 2018 Action Report",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/09/Sept-18-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:28Z",
+      "filename": "SEP-18-AR.pdf",
+      "hash": "a44938cdf3b352c5f9084bc267f93fde4f1369f688a753dc758e0343ae890f82",
+      "month_label": "September 2018 Action Report",
+      "page_count": 12
+    },
+    "http://www.metrosouthchamber.com/wp-content/uploads/2018/10/oct-18-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:30Z",
+      "filename": "OCT-18-AR.pdf",
+      "hash": "db45af54406a3d2a844708db66b60fd1b2885688b2928f9af68b4ab0d36eafad",
+      "month_label": "October 2018 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2021/08/JULYAUG-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:32Z",
+      "filename": "JULYAUG-21-AR.pdf",
+      "hash": "f3f9933b894ac8ae6fd07e82007e2aad825cf800b2aa34a53bc5190a8ce6b0ec",
+      "month_label": "July/August 2021 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2021/09/SEPT-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:33Z",
+      "filename": "SEP-21-AR.pdf",
+      "hash": "32fcf18d54f2faf4837e6f720fee4a92c98b9ce1045ab07f79d1714d9420327e",
+      "month_label": "September 2021 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2021/10/OCT-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:34Z",
+      "filename": "OCT-21-AR.pdf",
+      "hash": "1bc38d08a4cf157cbeaff6d5a1be0e039801c88e719d38ed2b34ddc040d1a015",
+      "month_label": "October 2021 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2021/11/NOV-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:36Z",
+      "filename": "NOV-21-AR.pdf",
+      "hash": "441db4f3aad599929cea1a29bc8c1fb0fc19fbd004c334d8dce844dd13d8325b",
+      "month_label": "November 2021 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2021/12/DEC-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:37Z",
+      "filename": "DEC-21-AR.pdf",
+      "hash": "6ad59b7ed32145c7e2add8a17478e47cbafd17dc14d691bc78d879a0eff7c0dc",
+      "month_label": "December 2021 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/01/JAN-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:39Z",
+      "filename": "JAN-22-AR.pdf",
+      "hash": "d3f278663b1319ab703bc950159df887ca0a8e816aa5855f7c8173c5155b3837",
+      "month_label": "January 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/02/FEB-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:40Z",
+      "filename": "FEB-22-AR.pdf",
+      "hash": "6d286f304457ea10425eb071fe17d8a4426c713d7e2ff37289bdf3065a1b8d7b",
+      "month_label": "February 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/02/MAR-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:41Z",
+      "filename": "MAR-22-AR.pdf",
+      "hash": "b47dcd62d862ecae28052b4628921734f70c732d4a924b6d291015ed685a5d26",
+      "month_label": "March 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/04/APR-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:42Z",
+      "filename": "APR-22-AR.pdf",
+      "hash": "f543bbc59d0762d2024e6b4213a36511ddedcf9b9cae32740f1d8fb79e1c9557",
+      "month_label": "April 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/05/MAY-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:44Z",
+      "filename": "MAY-22-AR.pdf",
+      "hash": "f82b0a3cd8b67f7ddacf57ed5ae1f08c501234c9437dbd4af74620a081e6e67f",
+      "month_label": "May 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/06/JUNE-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:45Z",
+      "filename": "JUN-22-AR.pdf",
+      "hash": "8176eecfae1047a76f8d1f2f907e5d08524a420db9f96e6c5982ab4ce6e78b11",
+      "month_label": "June 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/07/JULYAUGUST-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:47Z",
+      "filename": "JULYAUGUST-22-AR.pdf",
+      "hash": "239c7d0b4fbd5411a03c49dd767bb883f9d24c0abac67e8a522fb2e36e532e38",
+      "month_label": "Julyaugust 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/09/SEPT-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:48Z",
+      "filename": "SEP-22-AR.pdf",
+      "hash": "2c9c4be1a5410a8fda7a6b0b515c85291bd3bcb284682005196181419920a12a",
+      "month_label": "September 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/10/NOV-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:51Z",
+      "filename": "NOV-22-AR.pdf",
+      "hash": "7ceb08884f05c1575a410535de85b6be8e22f8095dc956321acaf4d4e7e289d2",
+      "month_label": "November 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/10/OCT-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:52Z",
+      "filename": "OCT-22-AR.pdf",
+      "hash": "e82285d7a2083a96004fe7b916845b8635290be3d7e59ca851086728b57f5f8c",
+      "month_label": "October 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/11/CE-MetroSouth-Reg-Sewer-Econ-Dev-Oct-2022-final.pdf": {
+      "downloaded_at": "2026-05-07T14:17:00Z",
+      "filename": "OCT-22.pdf",
+      "hash": "6bfab498756fd8706ff60057ae8c74fa02eb2ee3f4e93509ad8bf8fa0f3d74e1",
+      "month_label": "October 2022",
+      "page_count": 13
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/11/Metro-South-Regional-Sewer-Econ-Dev-Assessment-Nov-2022.pdf": {
+      "downloaded_at": "2026-05-07T14:17:00Z",
+      "filename": "NOV-22.pdf",
+      "hash": "747c56681e93ffba17ba9b3fbae8b69a34c21330e1925d3f51cb12d08c09e2fd",
+      "month_label": "November 2022",
+      "page_count": 20
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2022/12/DEC-22-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:53Z",
+      "filename": "DEC-22-AR.pdf",
+      "hash": "f1771e8973a90536b7873778872a06aeefde6055637e5ba09557eaa339a9c0ba",
+      "month_label": "December 2022 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/01/JAN-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:55Z",
+      "filename": "JAN-23-AR.pdf",
+      "hash": "30348502eaa8b8ae82c9d43cf287cb4e1c9d341b7e07b5ecdfc21f6b2a83abd0",
+      "month_label": "January 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/02/FEB-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:56Z",
+      "filename": "FEB-23-AR.pdf",
+      "hash": "6f3ba55771ebac9675fbfb51e0262b438f99ce751576179bd6c63731cb75c929",
+      "month_label": "February 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/03/MAR-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:57Z",
+      "filename": "MAR-23-AR.pdf",
+      "hash": "6860b419d82281889fbea6911f1bb6600e30b3968ccbc106aa72f38343caaee8",
+      "month_label": "March 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/04/APR-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:14:59Z",
+      "filename": "APR-23-AR.pdf",
+      "hash": "6c5ecd37850ec122662e99e080469fb79dc0a5b000cb12a616b0bfa3ab7ce3dc",
+      "month_label": "April 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/05/MAY-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:00Z",
+      "filename": "MAY-23-AR.pdf",
+      "hash": "18ad8edb4ae78975359b347e9a2e93b5f4bd2f788e6da115cc2c22c6e340e385",
+      "month_label": "May 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/06/JUNE-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:01Z",
+      "filename": "JUN-23-AR.pdf",
+      "hash": "b37d0f6a2bcea5e8640f6fc8c7b896dc9f14cc9213c536fc7d633fe2fdab85ab",
+      "month_label": "June 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/07/Bridgewater-Comprehensive-Master-Plan-May-2022_202301031324310582.pdf": {
+      "downloaded_at": "2026-05-07T14:17:06Z",
+      "filename": "MAY-22.pdf",
+      "hash": "3f93eab9479e3e7dda660d4c5a232c6a6fdf4f08dd31ebc1fa19f54585b3eb9f",
+      "month_label": "May 2022",
+      "page_count": 265
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/07/JULYAUG-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:04Z",
+      "filename": "JULYAUG-23-AR.pdf",
+      "hash": "57273c6282058a5021eea7adb80e953649143e5a1b42048d1b9218a345515db4",
+      "month_label": "July/August 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/09/SEPT-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:06Z",
+      "filename": "SEP-23-AR.pdf",
+      "hash": "db26927837dff5f58da89d979d31946d92552eb467dcfa19bb02627285732c4f",
+      "month_label": "September 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/10/OCT-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:08Z",
+      "filename": "OCT-23-AR.pdf",
+      "hash": "3474e2e38b514b819c1cccf149231d34add3362ef1d428a5b682520b5ca0471b",
+      "month_label": "October 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/11/NOV-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:10Z",
+      "filename": "NOV-23-AR.pdf",
+      "hash": "c536eb7ac14d0d260d6c8c1e787f32741e7907031d5230a7c16063fe2ef6a08e",
+      "month_label": "November 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2023/12/DEC-23-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:15Z",
+      "filename": "DEC-23-AR.pdf",
+      "hash": "2edf15c3881930b1f19c3a0cd1e5ce87b276d5c787248d2dc6adc36cd84cd65e",
+      "month_label": "December 2023 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2024/01/JAN-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:16Z",
+      "filename": "JAN-24-AR.pdf",
+      "hash": "732a1be331e2997c38f60953fad480ca7c2f697737c6308f89d99e27de20768c",
+      "month_label": "January 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2024/02/FEB-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:18Z",
+      "filename": "FEB-24-AR.pdf",
+      "hash": "0b2b8e1fe6f77a870760c195c78fbf89dd95a34911e1a2d36468f6c956d31c4a",
+      "month_label": "February 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2024/07/JULYAUG-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:20Z",
+      "filename": "JULYAUG-24-AR.pdf",
+      "hash": "b4184490fca29707fe14f993f3c99fcc3c9faa013e15ec952b49ce591020b4b5",
+      "month_label": "July/August 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2024/12/DEC-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:22Z",
+      "filename": "DEC-24-AR.pdf",
+      "hash": "824f1a2a735e23ebfd8892edf22f6d7af6ff6399a922c1f0415eb3bc22ea119e",
+      "month_label": "December 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2025/01/JAN-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:24Z",
+      "filename": "JAN-25-AR.pdf",
+      "hash": "4b5c50263a6a48efdd6afb83615ec5c158f0176c0989b69844481eec6eeba884",
+      "month_label": "January 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2025/02/FEB-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:25Z",
+      "filename": "FEB-25-AR.pdf",
+      "hash": "d38854decc9f974c8b6b13a8f0aba91afb16f0e3636ec12e44544f7f5818b542",
+      "month_label": "February 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2025/04/MAY-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:29Z",
+      "filename": "MAY-25-AR.pdf",
+      "hash": "6e8fac0fa5a6ddc00368fed41a20a62d9818eb990f8a13771b94379dc4bcba17",
+      "month_label": "May 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2025/05/JUNE-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:32Z",
+      "filename": "JUN-25-AR.pdf",
+      "hash": "f73cef5e244535046802ffaaae44fd46a4c4f135865426e03705a18203a2293a",
+      "month_label": "June 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2025/11/NOV-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:34Z",
+      "filename": "NOV-25-AR.pdf",
+      "hash": "b979feaff02f532b513814ad23e054667af41edec8ff2a65174f3abc8351215f",
+      "month_label": "November 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/01/JAN-26-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:36Z",
+      "filename": "JAN-26-AR.pdf",
+      "hash": "98eef1fd7653dfd26e8b6c29fa4b4ecf4037172b726673cee62f2944acd65215",
+      "month_label": "January 2026 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/02/FEB-26-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:39Z",
+      "filename": "FEB-26-AR.pdf",
+      "hash": "f4da5d06ce7c71b4b66ba4048086b930e95ae5597da25f80ff3d5e5ce4f839c0",
+      "month_label": "February 2026 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/02/MAR-26-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:40Z",
+      "filename": "MAR-26-AR.pdf",
+      "hash": "f70e2d0c6cebce98d756b40d2a089259747a51725bc41fbbe2b102a2db20f068",
+      "month_label": "March 2026 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/APR-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:42Z",
+      "filename": "APR-24-AR.pdf",
+      "hash": "9e153b279eaf96248693b6f25d564aa4019bcc0edd509bb3e28d09a02e28f2a3",
+      "month_label": "April 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/APR-26-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:44Z",
+      "filename": "APR-26-AR.pdf",
+      "hash": "3e1ea06a249805e38a9330e47b1bb7e94656c2847cb5c9b4a8d40a9ff077e7b2",
+      "month_label": "April 2026 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/APRIL-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:46Z",
+      "filename": "APR-25-AR.pdf",
+      "hash": "63ba3ed643f991b34c00c26df45f93bd8d58c2124abddac81fb5397e3478ca88",
+      "month_label": "April 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/JULYAUG-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:49Z",
+      "filename": "JULYAUG-25-AR.pdf",
+      "hash": "39e88581e9a7eee560a0d48cb0514746ec2afd1a26f908bbc2410e69f9461214",
+      "month_label": "July/August 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/JUNE-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:51Z",
+      "filename": "JUN-24-AR.pdf",
+      "hash": "f69d0e26385be74acc2aeba9a9e805f755e0596fe79e4aa1da0190c993d01f66",
+      "month_label": "June 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/MAR-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:53Z",
+      "filename": "MAR-25-AR.pdf",
+      "hash": "7b733a11ef2e8253161dd41e5eb620abc4691ffb7fb30345f7a3dc114b438148",
+      "month_label": "March 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/MAY-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:55Z",
+      "filename": "MAY-24-AR.pdf",
+      "hash": "22c2dc1ad500a9ffe507a02e1f50f000e1696735bf286ab3b4626fa63a4ca28a",
+      "month_label": "May 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/NOV-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:57Z",
+      "filename": "NOV-24-AR.pdf",
+      "hash": "ffe34028dbf245dd9c92956064c0b5c1e3292e75ab21260517f6ab776e840a0f",
+      "month_label": "November 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/OCT-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:15:59Z",
+      "filename": "OCT-24-AR.pdf",
+      "hash": "66eeb9a720c587cdf72ab8f4175b8fd55cf6310e07e4f7d10c73026e083b43ee",
+      "month_label": "October 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/OCT-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:01Z",
+      "filename": "OCT-25-AR.pdf",
+      "hash": "11b0e6b887ca6bd04b6405132d4b5674ae3c9f992b72e42d44a196bd8e5250df",
+      "month_label": "October 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/SEPT-24-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:04Z",
+      "filename": "SEP-24-AR.pdf",
+      "hash": "832d9fc70bf8bdc9b7c8daef93456f5d1598a0a9bc3f8f240c73f8886c3c2de6",
+      "month_label": "September 2024 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/04/SEPT-25-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:07Z",
+      "filename": "SEP-25-AR.pdf",
+      "hash": "17bcf766db7153650ec9f21197915bb67c32faa9ad01ef559cfbdb8fe6089cbf",
+      "month_label": "September 2025 Action Report",
+      "page_count": 12
+    },
+    "https://metrosouthchamber.com/wp-content/uploads/2026/05/MAY-26-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:09Z",
+      "filename": "MAY-26-AR.pdf",
+      "hash": "32595d1f82d1119bd56e6e5dc5360d5f20cc1d439a4100e35fe5ca5828e512ed",
+      "month_label": "May 2026 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/dec17ar.pdf": {
+      "downloaded_at": "2026-05-07T14:16:11Z",
+      "filename": "dec17ar.pdf",
+      "hash": "9d33827cf22ffe363f6b2448499de6b4a06d0b134c6667d3b470364cf9d31a0f",
+      "month_label": "Dec17ar",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/nov-17-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:12Z",
+      "filename": "NOV-17-AR.pdf",
+      "hash": "787b85cfd332556be89a70978e373870e784d98cc06581db5dfc1c8eaca44b92",
+      "month_label": "November 2017 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/oct17AR-1.pdf": {
+      "downloaded_at": "2026-05-07T14:16:12Z",
+      "filename": "oct17AR-1.pdf",
+      "hash": "907664f4c2bade02d78c70d515e3b9b76a64d583736a17cc938ba9dd8cc22558",
+      "month_label": "Oct17ar 201",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/sept-17-ar.pdf": {
+      "downloaded_at": "2026-05-07T14:16:14Z",
+      "filename": "SEP-17-AR.pdf",
+      "hash": "9b122a51c6900247128e20514a9799c463a3c2a19d16e1dc655ae0c33ae3d343",
+      "month_label": "September 2017 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2018/11/NOV-18-AR-1.pdf": {
+      "downloaded_at": "2026-05-07T14:16:15Z",
+      "filename": "NOV-18-AR.pdf",
+      "hash": "ab534bd5c9db78e32d0699cad869a9ec79ad2817df35b842acf69ac500e9ea94",
+      "month_label": "November 2018 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2018/12/DEC-18-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:16Z",
+      "filename": "DEC-18-AR.pdf",
+      "hash": "be038f9d5a6c9660d043aac22a4eff4b28ab528344a973ad5e81364f29ec29cf",
+      "month_label": "December 2018 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/01/JAN-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:19Z",
+      "filename": "JAN-19-AR.pdf",
+      "hash": "d32753cf7dba107418224d3f52c53ee9ae7a3848623ef28368e3fdd3b13b8b3c",
+      "month_label": "January 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/02/FEB-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:21Z",
+      "filename": "FEB-19-AR.pdf",
+      "hash": "5769617f917c383826f249d4394ab8139dbf85fad623fbad5da4a66b79184089",
+      "month_label": "February 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/03/MAR-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:22Z",
+      "filename": "MAR-19-AR.pdf",
+      "hash": "00a97bf044a9b75f64290f48519aa0a1ea150c926bb321d72a9cb3c0a4786c6b",
+      "month_label": "March 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/04/APR-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:24Z",
+      "filename": "APR-19-AR.pdf",
+      "hash": "665d585eaa8b05f110ce73635fafc4fd6779ece49bb25925a491bf3e77e5c21d",
+      "month_label": "April 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/05/MAY-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:26Z",
+      "filename": "MAY-19-AR.pdf",
+      "hash": "b6eff92f9378c1bf636fdb9a9d32e864e28837b7cd54434d4c81d0f15119b7d3",
+      "month_label": "May 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/06/JUNE-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:28Z",
+      "filename": "JUN-19-AR.pdf",
+      "hash": "fd471ccdb18840d4e5843588f4c84f2d74c3077460ad01f86bbb5caedc426721",
+      "month_label": "June 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/07/julyaug19-ar.pdf": {
+      "downloaded_at": "2026-05-07T14:16:29Z",
+      "filename": "julyaug19-ar.pdf",
+      "hash": "bbd807a5f2c53e4e24f361a59aa3571ea9923c0810336e6db4a85a41ab23bacb",
+      "month_label": "Julyaug19 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/10/OCT-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:32Z",
+      "filename": "OCT-19-AR.pdf",
+      "hash": "1439f176371067302f68c790dc9611fddbc0918e67aeabb77e5dfa2368caedf9",
+      "month_label": "October 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/11/NOV-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:33Z",
+      "filename": "NOV-19-AR.pdf",
+      "hash": "5c7be834014445c421ab31a4e1efe84044e9bf5bb2fd5ab83561715663e569fe",
+      "month_label": "November 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/11/SEPT-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:34Z",
+      "filename": "SEP-19-AR.pdf",
+      "hash": "c5e20f850e51ca058c843892054dcbce92e0802bea4574ebd281a272af006902",
+      "month_label": "September 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2019/12/DEC-19-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:35Z",
+      "filename": "DEC-19-AR.pdf",
+      "hash": "f7796e10deba56638b4df14d276eec52453d42f7cd4d47c7ec08cdaa99f6cd3a",
+      "month_label": "December 2019 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/01/JAN-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:35Z",
+      "filename": "JAN-20-AR.pdf",
+      "hash": "0614935ebbddaba190cc2488ac4009aefea91bac28ca77e0650170aa1837529d",
+      "month_label": "January 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/02/FEB-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:36Z",
+      "filename": "FEB-20-AR.pdf",
+      "hash": "5c55b61e8bace6d8025cd77d5da76bc4ac56797f7f74bc35905869e5a9e97a01",
+      "month_label": "February 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/03/MAR-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:38Z",
+      "filename": "MAR-20-AR.pdf",
+      "hash": "24c09c8bf1863117e7a013da1e4d6456a468073c299a03b69ae1c64ee26b334d",
+      "month_label": "March 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/04/APR-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:38Z",
+      "filename": "APR-20-AR.pdf",
+      "hash": "1039368eb3315ad7ef8442fb9c7f2d5fef178f48e3c0a18780bd489c701ea427",
+      "month_label": "April 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/05/MAY-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:39Z",
+      "filename": "MAY-20-AR.pdf",
+      "hash": "e883680ccc737384276ce46d7ac60fb56290c8f5033d4729d361e1a7c9628cbe",
+      "month_label": "May 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/06/JUNE-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:40Z",
+      "filename": "JUN-20-AR.pdf",
+      "hash": "6a18356e3cb05691cee88ace62cc0dbb6800d649c320d3952edd98e0698e7011",
+      "month_label": "June 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/07/JULY-AUGUST-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:41Z",
+      "filename": "JULYAUG-20-AR.pdf",
+      "hash": "195aa26b13770f638d7f89cae62386bef0e16c6771dde8bf2c08323649e7139a",
+      "month_label": "July/August 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/08/Opportunity-Zone-Presentation-August-2020.pdf": {
+      "downloaded_at": "2026-05-07T14:17:06Z",
+      "filename": "AUG-20.pdf",
+      "hash": "0dd65c76adfb4758343175982d2244cc1310e0b8f3b6848cce9f3eaa44db9653",
+      "month_label": "August 2020",
+      "page_count": 13
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/09/SEPT-20-AR-1.pdf": {
+      "downloaded_at": "2026-05-07T14:16:43Z",
+      "filename": "SEP-20-AR.pdf",
+      "hash": "0e31636c8e96d6f1d52af139dc9e03a328dec7eebef35bf8d5d3407edf74d48c",
+      "month_label": "September 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/10/OCT-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:45Z",
+      "filename": "OCT-20-AR.pdf",
+      "hash": "9198a26dc2766b3b941de589575a2ec365683107e683600da5cf22905a262977",
+      "month_label": "October 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/11/DEC-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:47Z",
+      "filename": "DEC-20-AR.pdf",
+      "hash": "eb190c3d4118a20a1672da432a846f77a84e92bb50b9d92d831225b7a052899f",
+      "month_label": "December 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2020/11/NOV-20-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:49Z",
+      "filename": "NOV-20-AR.pdf",
+      "hash": "099a3cbaf01d52f2f079111d7c034d631959c6b1fcc27416046b950564059a81",
+      "month_label": "November 2020 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2021/01/JAN-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:50Z",
+      "filename": "JAN-21-AR.pdf",
+      "hash": "f627d35d03bc2bee2f36958a74cf5226cb7efa6dfa6da5f28a07aad739a7ff23",
+      "month_label": "January 2021 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2021/02/FEB-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:51Z",
+      "filename": "FEB-21-AR.pdf",
+      "hash": "5a01effa4134fb5e56057c9023bf4eeb975fd8973b5c050e0331d456174f2a34",
+      "month_label": "February 2021 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2021/03/MAR-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:53Z",
+      "filename": "MAR-21-AR.pdf",
+      "hash": "efc64d027b8f453e438585cf80bdf084c3e85f7c08491a5043b4f94163a7b33c",
+      "month_label": "March 2021 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2021/04/APR-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:55Z",
+      "filename": "APR-21-AR.pdf",
+      "hash": "f13bb213492dc9bacf59a24a64d0568b20acba99ab4912da4e6515038cf1cf36",
+      "month_label": "April 2021 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2021/05/MAY-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:57Z",
+      "filename": "MAY-21-AR.pdf",
+      "hash": "263481b23d70fe08c142d6ddf7cbc24bb59c886ab274004438459a3d9d7635d9",
+      "month_label": "May 2021 Action Report",
+      "page_count": 12
+    },
+    "https://www.metrosouthchamber.com/wp-content/uploads/2021/06/JUNE-21-AR.pdf": {
+      "downloaded_at": "2026-05-07T14:16:59Z",
+      "filename": "JUN-21-AR.pdf",
+      "hash": "982ed7d688978bfef27fa32f05257a2adc1950f781418051fd8c5c0627ed9db3",
+      "month_label": "June 2021 Action Report",
+      "page_count": 12
+    }
+  }
+}

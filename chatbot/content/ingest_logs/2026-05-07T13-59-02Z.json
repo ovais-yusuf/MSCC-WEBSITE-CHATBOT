@@ -1,0 +1,1728 @@
+{
+  "duration_seconds": 1311.96,
+  "finished_at": "2026-05-07T14:20:54Z",
+  "index_summary": {
+    "chunks": 16640,
+    "newsletter_chunks": 16069,
+    "webpage_chunks": 571
+  },
+  "pages_changed_urls": [
+    "https://metrosouthchamber.com/",
+    "http://metrosouthchamber.com/",
+    "http://metrosouthchamber.com/events",
+    "http://metrosouthchamber.com/membership/directory",
+    "http://metrosouthchamber.com/membership/join",
+    "http://metrosouthchamber.com/region/shop-local",
+    "https://metrosouthchamber.com/business-front-door",
+    "https://metrosouthchamber.com/community-one-stop-for-growth",
+    "https://metrosouthchamber.com/event/8th-annual-construction-career-day",
+    "https://metrosouthchamber.com/event/ribbon-cutting-fusion-essence",
+    "https://metrosouthchamber.com/events",
+    "https://metrosouthchamber.com/events/annual-monthly-events",
+    "https://metrosouthchamber.com/events/chamber",
+    "https://metrosouthchamber.com/events/community",
+    "https://metrosouthchamber.com/events/workshops",
+    "https://metrosouthchamber.com/gbyp",
+    "https://metrosouthchamber.com/leadership-metro-south",
+    "https://metrosouthchamber.com/membership/advertising",
+    "https://metrosouthchamber.com/membership/benefits",
+    "https://metrosouthchamber.com/membership/directory",
+    "https://metrosouthchamber.com/membership/health-insurance",
+    "https://metrosouthchamber.com/membership/join",
+    "https://metrosouthchamber.com/membership/member-login",
+    "https://metrosouthchamber.com/membership/savings",
+    "https://metrosouthchamber.com/membership/sponsorship",
+    "https://metrosouthchamber.com/news-media/action-report",
+    "https://metrosouthchamber.com/news-media/blog",
+    "https://metrosouthchamber.com/news-media/chamber-videos",
+    "https://metrosouthchamber.com/news-media/e-update",
+    "https://metrosouthchamber.com/news-media/guide",
+    "https://metrosouthchamber.com/news-media/portfolio",
+    "https://metrosouthchamber.com/region/aboutregion",
+    "https://metrosouthchamber.com/region/communities",
+    "https://metrosouthchamber.com/region/shop-local",
+    "https://metrosouthchamber.com/resources/brocktonloans",
+    "https://metrosouthchamber.com/resources/building-resource-partners",
+    "https://metrosouthchamber.com/resources/business-assistance",
+    "https://metrosouthchamber.com/resources/studies",
+    "http://metrosouthchamber.com/membership/advertising",
+    "http://metrosouthchamber.com/news-media/action-report",
+    "http://metrosouthchamber.com/region/aboutregion",
+    "https://metrosouthchamber.com/event/113th-annual-meeting-b2b-expo",
+    "https://metrosouthchamber.com/event/28th-annual-athena-leadership-award-luncheon",
+    "https://metrosouthchamber.com/event/35th-annual-small-business-entrepreneur-of-the-year-awards-luncheon",
+    "https://metrosouthchamber.com/event/ribbon-cutting-divine-watch-training-school",
+    "https://metrosouthchamber.com/event/south-coast-real-a-year-in-review",
+    "https://metrosouthchamber.com/events/list",
+    "https://metrosouthchamber.com/events/list?eventDisplay=past",
+    "https://metrosouthchamber.com/events/month",
+    "https://metrosouthchamber.com/events/today",
+    "https://metrosouthchamber.com/membership/plaque",
+    "https://metrosouthchamber.com/resources/covid-19-resource-guide",
+    "https://metrosouthchamber.com/resources/find-a-business",
+    "https://metrosouthchamber.com/membership",
+    "https://metrosouthchamber.com/region",
+    "https://metrosouthchamber.com/region/amusement",
+    "https://metrosouthchamber.com/region/cultural",
+    "https://metrosouthchamber.com/region/movies",
+    "https://metrosouthchamber.com/region/parks",
+    "https://metrosouthchamber.com/region/shopping",
+    "https://metrosouthchamber.com/region/sports",
+    "https://metrosouthchamber.com/region/where-to-eat",
+    "https://metrosouthchamber.com/region/where-to-stay",
+    "https://metrosouthchamber.com/resources/incubator",
+    "https://metrosouthchamber.com/resources/partners",
+    "https://metrosouthchamber.com/events/list?shortcode=ff0d634d",
+    "https://metrosouthchamber.com/events/month?shortcode=ff0d634d",
+    "https://metrosouthchamber.com/events/today?shortcode=ff0d634d",
+    "https://metrosouthchamber.com/events/list?shortcode=461d3180",
+    "https://metrosouthchamber.com/events/month?shortcode=461d3180",
+    "https://metrosouthchamber.com/events/today?shortcode=461d3180",
+    "https://metrosouthchamber.com/events/list?shortcode=356c874b",
+    "https://metrosouthchamber.com/events/month?shortcode=356c874b",
+    "https://metrosouthchamber.com/events/today?shortcode=356c874b",
+    "https://metrosouthchamber.com/programs/donate",
+    "https://metrosouthchamber.com/programs/redo",
+    "https://www.metrosouthchamber.com/events/annual-monthly-events",
+    "https://www.metrosouthchamber.com/events/legislative",
+    "https://www.metrosouthchamber.com/events/workshops",
+    "https://www.metrosouthchamber.com/membership/advertising",
+    "https://www.metrosouthchamber.com/membership/savings",
+    "https://www.metrosouthchamber.com/membership/sponsorship",
+    "https://www.metrosouthchamber.com/news-media/action-report",
+    "https://www.metrosouthchamber.com/news-media/e-update",
+    "https://www.metrosouthchamber.com/resources/business-assistance",
+    "https://metrosouthchamber.com/news-media",
+    "https://metrosouthchamber.com/resources/your-legislator",
+    "https://metrosouthchamber.com/region/employment",
+    "https://metrosouthchamber.com/resources",
+    "https://metrosouthchamber.com/resources/%20building-resource-partners",
+    "https://www.metrosouthchamber.com/",
+    "http://metrosouthchamber.com/region/communities",
+    "http://metrosouthchamber.com/resources/your-legislator",
+    "https://metrosouthchamber.com/event/ai-innovators-bootcamp-april-17",
+    "https://metrosouthchamber.com/event/annual-labor-employment-law-update",
+    "https://metrosouthchamber.com/event/ap-career-kickstart-showcase",
+    "https://metrosouthchamber.com/event/bah-04162026",
+    "https://metrosouthchamber.com/event/forward-brockton-arts",
+    "https://metrosouthchamber.com/event/good-day-metro-south-april-2026",
+    "https://metrosouthchamber.com/event/massachusetts-small-business-resource-forum",
+    "https://metrosouthchamber.com/event/massasoit-spring-career-job-fair-2026",
+    "https://metrosouthchamber.com/event/meet-the-commissioners-brockton-womens-commission",
+    "https://metrosouthchamber.com/event/multi-chamber-business-after-hours-live-harness-racing-2026",
+    "https://metrosouthchamber.com/event/ribbon-cutting-allan-veterinary-clinic",
+    "https://metrosouthchamber.com/event/ribbon-cutting-tru-by-hilton",
+    "https://metrosouthchamber.com/events/2026-04-30",
+    "https://metrosouthchamber.com/events/2026-05-04",
+    "https://metrosouthchamber.com/events/2026-05-05",
+    "https://metrosouthchamber.com/events/2026-05-15",
+    "https://metrosouthchamber.com/events/2026-05-28",
+    "https://metrosouthchamber.com/events/month/2026-04",
+    "https://metrosouthchamber.com/events/month/2026-06",
+    "https://metrosouthchamber.com/events/2026-05-06",
+    "https://metrosouthchamber.com/events/2026-05-08",
+    "https://metrosouthchamber.com/events/today?ical=1",
+    "https://metrosouthchamber.com/events/today?outlook-ical=1",
+    "http://www.metrosouthchamber.com/programs/innovation-campaign/naming",
+    "https://metrosouthchamber.com/?page_id=556",
+    "https://www.metrosouthchamber.com/membership/join",
+    "https://www.metrosouthchamber.com/region/aboutregion",
+    "https://www.metrosouthchamber.com/region/shop-local",
+    "https://metrosouthchamber.com/events/2026-04-29",
+    "https://metrosouthchamber.com/events/2026-05-01",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-30",
+    "https://metrosouthchamber.com/events/2026-05-03",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-04",
+    "https://metrosouthchamber.com/events/month/2026-05",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-05",
+    "https://metrosouthchamber.com/events/2026-05-14",
+    "https://metrosouthchamber.com/events/2026-05-16",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-15",
+    "https://metrosouthchamber.com/events/2026-05-27",
+    "https://metrosouthchamber.com/events/2026-05-29",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-28",
+    "https://metrosouthchamber.com/event/29th-annual-cap-career-day",
+    "https://metrosouthchamber.com/event/ai-innovators-bootcamp-april-10",
+    "https://metrosouthchamber.com/event/basic-entrepreneurial-workshop-business-fundamentals-financing-basics-with-scu-cu",
+    "https://metrosouthchamber.com/event/exclusive-backyard-preview-xfinity-center-tour",
+    "https://metrosouthchamber.com/event/in-your-corner-mens-health-night",
+    "https://metrosouthchamber.com/event/live-nation-tpc-boston",
+    "https://metrosouthchamber.com/events/2026-04-01",
+    "https://metrosouthchamber.com/events/2026-04-08",
+    "https://metrosouthchamber.com/events/2026-04-09",
+    "https://metrosouthchamber.com/events/2026-04-10",
+    "https://metrosouthchamber.com/events/2026-04-11",
+    "https://metrosouthchamber.com/events/2026-04-13",
+    "https://metrosouthchamber.com/events/2026-04-15",
+    "https://metrosouthchamber.com/events/2026-04-16",
+    "https://metrosouthchamber.com/events/2026-04-17",
+    "https://metrosouthchamber.com/events/2026-04-22",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-01",
+    "https://metrosouthchamber.com/events/month/2026-03",
+    "https://metrosouthchamber.com/events/2026-06-01",
+    "https://metrosouthchamber.com/events/2026-06-02",
+    "https://metrosouthchamber.com/events/2026-06-05",
+    "https://metrosouthchamber.com/events/2026-06-11",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-06-01",
+    "https://metrosouthchamber.com/events/month/2026-07",
+    "https://metrosouthchamber.com/events/2026-05-06?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-06?outlook-ical=1",
+    "https://metrosouthchamber.com/events/2026-05-07",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-06",
+    "https://metrosouthchamber.com/events/2026-05-08?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-08?outlook-ical=1",
+    "https://metrosouthchamber.com/events/2026-05-09",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-08",
+    "http://www.metrosouthchamber.com/membership/join",
+    "http://www.metrosouthchamber.com/news-media/action-report",
+    "http://www.metrosouthchamber.com/region/aboutregion",
+    "https://metrosouthchamber.com/?page_id=1232",
+    "https://www.metrosouthchamber.com/region/communities",
+    "https://www.metrosouthchamber.com/resources/your-legislator",
+    "https://metrosouthchamber.com/events/2026-04-28",
+    "https://metrosouthchamber.com/events/2026-04-29?ical=1",
+    "https://metrosouthchamber.com/events/2026-04-29?outlook-ical=1",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-29",
+    "https://metrosouthchamber.com/events/2026-05-01?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-01?outlook-ical=1",
+    "https://metrosouthchamber.com/events/2026-05-02",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-01",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-04-30&eventDisplay=past",
+    "https://metrosouthchamber.com/events/2026-05-03?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-03?outlook-ical=1",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-03",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-04&eventDisplay=past",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-05&eventDisplay=past",
+    "https://metrosouthchamber.com/events/2026-05-13",
+    "https://metrosouthchamber.com/events/2026-05-14?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-14?outlook-ical=1",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-14",
+    "https://metrosouthchamber.com/events/2026-05-16?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-16?outlook-ical=1",
+    "https://metrosouthchamber.com/events/2026-05-17",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-16",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-15&eventDisplay=past",
+    "https://metrosouthchamber.com/events/2026-05-26",
+    "https://metrosouthchamber.com/events/2026-05-27?ical=1",
+    "https://metrosouthchamber.com/events/2026-05-27?outlook-ical=1",
+    "https://metrosouthchamber.com/events/list?tribe-bar-date=2026-05-27",
+    "https://metrosouthchamber.com/events/2026-05-29?ical=1"
+  ],
+  "pages_crawled": 200,
+  "pages_new_or_changed": 200,
+  "pdf_links_seen": 303,
+  "pdfs_added": [
+    {
+      "filename": "9aacddea-49de-466f-8360-3893537c4e6b.pdf",
+      "is_new": true,
+      "month_label": "9aacddea",
+      "page_count": 12,
+      "url": "http://files.ctctcdn.com/92a5bb17be/9aacddea-49de-466f-8360-3893537c4e6b.pdf"
+    },
+    {
+      "filename": "AprilAR2007.pdf",
+      "is_new": true,
+      "month_label": "Aprilar2007",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/AprilAR2007.pdf"
+    },
+    {
+      "filename": "FebAR2007.pdf",
+      "is_new": true,
+      "month_label": "Febar2007",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/FebAR2007.pdf"
+    },
+    {
+      "filename": "Jan_AR_2007.pdf",
+      "is_new": true,
+      "month_label": "Jan_ar_2007",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/Jan_AR_2007.pdf"
+    },
+    {
+      "filename": "June07_AR.pdf",
+      "is_new": true,
+      "month_label": "June07_ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/June07_AR.pdf"
+    },
+    {
+      "filename": "March_AR_2007.pdf",
+      "is_new": true,
+      "month_label": "March_ar_2007",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/March_AR_2007.pdf"
+    },
+    {
+      "filename": "May07ActionReport.pdf",
+      "is_new": true,
+      "month_label": "May07actionreport",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/May07ActionReport.pdf"
+    },
+    {
+      "filename": "april09ar.pdf",
+      "is_new": true,
+      "month_label": "April09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april09ar.pdf"
+    },
+    {
+      "filename": "april10ar.pdf",
+      "is_new": true,
+      "month_label": "April10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april10ar.pdf"
+    },
+    {
+      "filename": "april11ar.pdf",
+      "is_new": true,
+      "month_label": "April11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april11ar.pdf"
+    },
+    {
+      "filename": "april12ar.pdf",
+      "is_new": true,
+      "month_label": "April12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april12ar.pdf"
+    },
+    {
+      "filename": "april13ar.pdf",
+      "is_new": true,
+      "month_label": "April13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april13ar.pdf"
+    },
+    {
+      "filename": "april14ar.pdf",
+      "is_new": true,
+      "month_label": "April14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april14ar.pdf"
+    },
+    {
+      "filename": "april15ar.pdf",
+      "is_new": true,
+      "month_label": "April15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april15ar.pdf"
+    },
+    {
+      "filename": "april16ar.pdf",
+      "is_new": true,
+      "month_label": "April16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april16ar.pdf"
+    },
+    {
+      "filename": "april17ar.pdf",
+      "is_new": true,
+      "month_label": "April17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/april17ar.pdf"
+    },
+    {
+      "filename": "dec08ar.pdf",
+      "is_new": true,
+      "month_label": "Dec08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec08ar.pdf"
+    },
+    {
+      "filename": "dec09ar.pdf",
+      "is_new": true,
+      "month_label": "Dec09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec09ar.pdf"
+    },
+    {
+      "filename": "dec10ar.pdf",
+      "is_new": true,
+      "month_label": "Dec10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec10ar.pdf"
+    },
+    {
+      "filename": "dec11ar.pdf",
+      "is_new": true,
+      "month_label": "Dec11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec11ar.pdf"
+    },
+    {
+      "filename": "dec12ar.pdf",
+      "is_new": true,
+      "month_label": "Dec12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec12ar.pdf"
+    },
+    {
+      "filename": "dec13ar.pdf",
+      "is_new": true,
+      "month_label": "Dec13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec13ar.pdf"
+    },
+    {
+      "filename": "dec14ar.pdf",
+      "is_new": true,
+      "month_label": "Dec14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec14ar.pdf"
+    },
+    {
+      "filename": "dec15ar.pdf",
+      "is_new": true,
+      "month_label": "Dec15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec15ar.pdf"
+    },
+    {
+      "filename": "dec16ar.pdf",
+      "is_new": true,
+      "month_label": "Dec16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/dec16ar.pdf"
+    },
+    {
+      "filename": "december07AR.pdf",
+      "is_new": true,
+      "month_label": "December07ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/december07AR.pdf"
+    },
+    {
+      "filename": "feb08ar.pdf",
+      "is_new": true,
+      "month_label": "Feb08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb08ar.pdf"
+    },
+    {
+      "filename": "feb09ar.pdf",
+      "is_new": true,
+      "month_label": "Feb09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb09ar.pdf"
+    },
+    {
+      "filename": "feb10ar.pdf",
+      "is_new": true,
+      "month_label": "Feb10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb10ar.pdf"
+    },
+    {
+      "filename": "feb12ar.pdf",
+      "is_new": true,
+      "month_label": "Feb12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb12ar.pdf"
+    },
+    {
+      "filename": "feb13ar.pdf",
+      "is_new": true,
+      "month_label": "Feb13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb13ar.pdf"
+    },
+    {
+      "filename": "feb14ar.pdf",
+      "is_new": true,
+      "month_label": "Feb14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb14ar.pdf"
+    },
+    {
+      "filename": "feb15ar.pdf",
+      "is_new": true,
+      "month_label": "Feb15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb15ar.pdf"
+    },
+    {
+      "filename": "feb16ar.pdf",
+      "is_new": true,
+      "month_label": "Feb16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb16ar.pdf"
+    },
+    {
+      "filename": "feb17ar.pdf",
+      "is_new": true,
+      "month_label": "Feb17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/feb17ar.pdf"
+    },
+    {
+      "filename": "jan08ar.pdf",
+      "is_new": true,
+      "month_label": "Jan08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan08ar.pdf"
+    },
+    {
+      "filename": "jan09ar.pdf",
+      "is_new": true,
+      "month_label": "Jan09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan09ar.pdf"
+    },
+    {
+      "filename": "jan10ar.pdf",
+      "is_new": true,
+      "month_label": "Jan10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan10ar.pdf"
+    },
+    {
+      "filename": "jan11ar.pdf",
+      "is_new": true,
+      "month_label": "Jan11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan11ar.pdf"
+    },
+    {
+      "filename": "jan12ar.pdf",
+      "is_new": true,
+      "month_label": "Jan12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan12ar.pdf"
+    },
+    {
+      "filename": "jan13ar.pdf",
+      "is_new": true,
+      "month_label": "Jan13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan13ar.pdf"
+    },
+    {
+      "filename": "jan14ar.pdf",
+      "is_new": true,
+      "month_label": "Jan14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan14ar.pdf"
+    },
+    {
+      "filename": "jan15ar.pdf",
+      "is_new": true,
+      "month_label": "Jan15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan15ar.pdf"
+    },
+    {
+      "filename": "jan16ar.pdf",
+      "is_new": true,
+      "month_label": "Jan16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan16ar.pdf"
+    },
+    {
+      "filename": "jan17ar.pdf",
+      "is_new": true,
+      "month_label": "Jan17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/jan17ar.pdf"
+    },
+    {
+      "filename": "july.augustAR07.pdf",
+      "is_new": true,
+      "month_label": "July.augustar07",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/july.augustAR07.pdf"
+    },
+    {
+      "filename": "julyaug08ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug08ar.pdf"
+    },
+    {
+      "filename": "julyaug09ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug09ar.pdf"
+    },
+    {
+      "filename": "julyaug10ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug10ar.pdf"
+    },
+    {
+      "filename": "julyaug11ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug11ar.pdf"
+    },
+    {
+      "filename": "julyaug12ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug12ar.pdf"
+    },
+    {
+      "filename": "julyaug13ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug13ar.pdf"
+    },
+    {
+      "filename": "julyaug14ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug14ar.pdf"
+    },
+    {
+      "filename": "julyaug15ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug15ar.pdf"
+    },
+    {
+      "filename": "julyaug16ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug16ar.pdf"
+    },
+    {
+      "filename": "julyaug17ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/julyaug17ar.pdf"
+    },
+    {
+      "filename": "june08ar.pdf",
+      "is_new": true,
+      "month_label": "June08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june08ar.pdf"
+    },
+    {
+      "filename": "june09ar.pdf",
+      "is_new": true,
+      "month_label": "June09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june09ar.pdf"
+    },
+    {
+      "filename": "june10ar.pdf",
+      "is_new": true,
+      "month_label": "June10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june10ar.pdf"
+    },
+    {
+      "filename": "june11ar.pdf",
+      "is_new": true,
+      "month_label": "June11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june11ar.pdf"
+    },
+    {
+      "filename": "june12ar.pdf",
+      "is_new": true,
+      "month_label": "June12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june12ar.pdf"
+    },
+    {
+      "filename": "june13ar.pdf",
+      "is_new": true,
+      "month_label": "June13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june13ar.pdf"
+    },
+    {
+      "filename": "june14ar.pdf",
+      "is_new": true,
+      "month_label": "June14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june14ar.pdf"
+    },
+    {
+      "filename": "june15ar.pdf",
+      "is_new": true,
+      "month_label": "June15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june15ar.pdf"
+    },
+    {
+      "filename": "june17ar.pdf",
+      "is_new": true,
+      "month_label": "June17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/june17ar.pdf"
+    },
+    {
+      "filename": "mar08ar.pdf",
+      "is_new": true,
+      "month_label": "Mar08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/mar08ar.pdf"
+    },
+    {
+      "filename": "march09ar.pdf",
+      "is_new": true,
+      "month_label": "March09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march09ar.pdf"
+    },
+    {
+      "filename": "march10ar.pdf",
+      "is_new": true,
+      "month_label": "March10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march10ar.pdf"
+    },
+    {
+      "filename": "march11ar.pdf",
+      "is_new": true,
+      "month_label": "March11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march11ar.pdf"
+    },
+    {
+      "filename": "march12ar.pdf",
+      "is_new": true,
+      "month_label": "March12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march12ar.pdf"
+    },
+    {
+      "filename": "march13ar.pdf",
+      "is_new": true,
+      "month_label": "March13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march13ar.pdf"
+    },
+    {
+      "filename": "march14ar.pdf",
+      "is_new": true,
+      "month_label": "March14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march14ar.pdf"
+    },
+    {
+      "filename": "march15ar.pdf",
+      "is_new": true,
+      "month_label": "March15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march15ar.pdf"
+    },
+    {
+      "filename": "march16ar.pdf",
+      "is_new": true,
+      "month_label": "March16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march16ar.pdf"
+    },
+    {
+      "filename": "march17ar.pdf",
+      "is_new": true,
+      "month_label": "March17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/march17ar.pdf"
+    },
+    {
+      "filename": "may08ar.pdf",
+      "is_new": true,
+      "month_label": "May08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may08ar.pdf"
+    },
+    {
+      "filename": "may09ar.pdf",
+      "is_new": true,
+      "month_label": "May09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may09ar.pdf"
+    },
+    {
+      "filename": "may10ar.pdf",
+      "is_new": true,
+      "month_label": "May10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may10ar.pdf"
+    },
+    {
+      "filename": "may11ar.pdf",
+      "is_new": true,
+      "month_label": "May11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may11ar.pdf"
+    },
+    {
+      "filename": "may12ar.pdf",
+      "is_new": true,
+      "month_label": "May12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may12ar.pdf"
+    },
+    {
+      "filename": "may13ar.pdf",
+      "is_new": true,
+      "month_label": "May13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may13ar.pdf"
+    },
+    {
+      "filename": "may14ar.pdf",
+      "is_new": true,
+      "month_label": "May14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may14ar.pdf"
+    },
+    {
+      "filename": "may15ar.pdf",
+      "is_new": true,
+      "month_label": "May15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may15ar.pdf"
+    },
+    {
+      "filename": "may16ar.pdf",
+      "is_new": true,
+      "month_label": "May16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may16ar.pdf"
+    },
+    {
+      "filename": "may17ar.pdf",
+      "is_new": true,
+      "month_label": "May17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/may17ar.pdf"
+    },
+    {
+      "filename": "nov08ar.pdf",
+      "is_new": true,
+      "month_label": "Nov08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov08ar.pdf"
+    },
+    {
+      "filename": "nov09ar.pdf",
+      "is_new": true,
+      "month_label": "Nov09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov09ar.pdf"
+    },
+    {
+      "filename": "nov10ar.pdf",
+      "is_new": true,
+      "month_label": "Nov10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov10ar.pdf"
+    },
+    {
+      "filename": "nov11ar.pdf",
+      "is_new": true,
+      "month_label": "Nov11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov11ar.pdf"
+    },
+    {
+      "filename": "nov12ar.pdf",
+      "is_new": true,
+      "month_label": "Nov12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov12ar.pdf"
+    },
+    {
+      "filename": "nov13ar.pdf",
+      "is_new": true,
+      "month_label": "Nov13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov13ar.pdf"
+    },
+    {
+      "filename": "nov14ar.pdf",
+      "is_new": true,
+      "month_label": "Nov14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov14ar.pdf"
+    },
+    {
+      "filename": "nov15ar.pdf",
+      "is_new": true,
+      "month_label": "Nov15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov15ar.pdf"
+    },
+    {
+      "filename": "nov16ar.pdf",
+      "is_new": true,
+      "month_label": "Nov16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/nov16ar.pdf"
+    },
+    {
+      "filename": "novemberar2.pdf",
+      "is_new": true,
+      "month_label": "Novemberar2",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/novemberar2.pdf"
+    },
+    {
+      "filename": "oct08ar.pdf",
+      "is_new": true,
+      "month_label": "Oct08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct08ar.pdf"
+    },
+    {
+      "filename": "oct10ar.pdf",
+      "is_new": true,
+      "month_label": "Oct10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct10ar.pdf"
+    },
+    {
+      "filename": "oct11ar.pdf",
+      "is_new": true,
+      "month_label": "Oct11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct11ar.pdf"
+    },
+    {
+      "filename": "oct12ar.pdf",
+      "is_new": true,
+      "month_label": "Oct12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct12ar.pdf"
+    },
+    {
+      "filename": "oct13ar.pdf",
+      "is_new": true,
+      "month_label": "Oct13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct13ar.pdf"
+    },
+    {
+      "filename": "oct14ar.pdf",
+      "is_new": true,
+      "month_label": "Oct14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct14ar.pdf"
+    },
+    {
+      "filename": "oct15ar.pdf",
+      "is_new": true,
+      "month_label": "Oct15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct15ar.pdf"
+    },
+    {
+      "filename": "oct16ar.pdf",
+      "is_new": true,
+      "month_label": "Oct16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/oct16ar.pdf"
+    },
+    {
+      "filename": "october07AR.pdf",
+      "is_new": true,
+      "month_label": "October07ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/october07AR.pdf"
+    },
+    {
+      "filename": "october09ar.pdf",
+      "is_new": true,
+      "month_label": "October09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/october09ar.pdf"
+    },
+    {
+      "filename": "sep08ar.pdf",
+      "is_new": true,
+      "month_label": "Sep08ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sep08ar.pdf"
+    },
+    {
+      "filename": "sep11ar.pdf",
+      "is_new": true,
+      "month_label": "Sep11ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sep11ar.pdf"
+    },
+    {
+      "filename": "sept09ar.pdf",
+      "is_new": true,
+      "month_label": "Sept09ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept09ar.pdf"
+    },
+    {
+      "filename": "sept10ar.pdf",
+      "is_new": true,
+      "month_label": "Sept10ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept10ar.pdf"
+    },
+    {
+      "filename": "sept12ar.pdf",
+      "is_new": true,
+      "month_label": "Sept12ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept12ar.pdf"
+    },
+    {
+      "filename": "sept13ar.pdf",
+      "is_new": true,
+      "month_label": "Sept13ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept13ar.pdf"
+    },
+    {
+      "filename": "sept14ar.pdf",
+      "is_new": true,
+      "month_label": "Sept14ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept14ar.pdf"
+    },
+    {
+      "filename": "sept15ar.pdf",
+      "is_new": true,
+      "month_label": "Sept15ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept15ar.pdf"
+    },
+    {
+      "filename": "sept16ar.pdf",
+      "is_new": true,
+      "month_label": "Sept16ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/sept16ar.pdf"
+    },
+    {
+      "filename": "september07AR.pdf",
+      "is_new": true,
+      "month_label": "September07ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/pdf/september07AR.pdf"
+    },
+    {
+      "filename": "Jun17ar.pdf",
+      "is_new": true,
+      "month_label": "Jun17ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2012/05/Jun17ar.pdf"
+    },
+    {
+      "filename": "jan18ar.pdf",
+      "is_new": true,
+      "month_label": "Jan18ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/05/jan18ar.pdf"
+    },
+    {
+      "filename": "APR-18-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/April-18-AR.pdf"
+    },
+    {
+      "filename": "FEB18AR.pdf",
+      "is_new": true,
+      "month_label": "Feb18ar",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/FEB18AR.pdf"
+    },
+    {
+      "filename": "JUN-18-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/June-18-AR.pdf"
+    },
+    {
+      "filename": "MAR-18-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/MAR-18-AR.pdf"
+    },
+    {
+      "filename": "MAY-18-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/06/May-18-AR_.pdf"
+    },
+    {
+      "filename": "JULYAUG-18-AR.pdf",
+      "is_new": true,
+      "month_label": "July/August 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/07/july-august-18-AR-2.pdf"
+    },
+    {
+      "filename": "SEP-18-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/09/Sept-18-AR.pdf"
+    },
+    {
+      "filename": "OCT-18-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2018 Action Report",
+      "page_count": 12,
+      "url": "http://www.metrosouthchamber.com/wp-content/uploads/2018/10/oct-18-AR.pdf"
+    },
+    {
+      "filename": "JULYAUG-21-AR.pdf",
+      "is_new": true,
+      "month_label": "July/August 2021 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2021/08/JULYAUG-21-AR.pdf"
+    },
+    {
+      "filename": "SEP-21-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2021 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2021/09/SEPT-21-AR.pdf"
+    },
+    {
+      "filename": "OCT-21-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2021 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2021/10/OCT-21-AR.pdf"
+    },
+    {
+      "filename": "NOV-21-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2021 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2021/11/NOV-21-AR.pdf"
+    },
+    {
+      "filename": "DEC-21-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2021 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2021/12/DEC-21-AR.pdf"
+    },
+    {
+      "filename": "JAN-22-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/01/JAN-22-AR.pdf"
+    },
+    {
+      "filename": "FEB-22-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/02/FEB-22-AR.pdf"
+    },
+    {
+      "filename": "MAR-22-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/02/MAR-22-AR.pdf"
+    },
+    {
+      "filename": "APR-22-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/04/APR-22-AR.pdf"
+    },
+    {
+      "filename": "MAY-22-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/05/MAY-22-AR.pdf"
+    },
+    {
+      "filename": "JUN-22-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/06/JUNE-22-AR.pdf"
+    },
+    {
+      "filename": "JULYAUGUST-22-AR.pdf",
+      "is_new": true,
+      "month_label": "Julyaugust 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/07/JULYAUGUST-22-AR.pdf"
+    },
+    {
+      "filename": "SEP-22-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/09/SEPT-22-AR.pdf"
+    },
+    {
+      "filename": "NOV-22-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/10/NOV-22-AR.pdf"
+    },
+    {
+      "filename": "OCT-22-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/10/OCT-22-AR.pdf"
+    },
+    {
+      "filename": "DEC-22-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2022 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/12/DEC-22-AR.pdf"
+    },
+    {
+      "filename": "JAN-23-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/01/JAN-23-AR.pdf"
+    },
+    {
+      "filename": "FEB-23-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/02/FEB-23-AR.pdf"
+    },
+    {
+      "filename": "MAR-23-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/03/MAR-23-AR.pdf"
+    },
+    {
+      "filename": "APR-23-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/04/APR-23-AR.pdf"
+    },
+    {
+      "filename": "MAY-23-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/05/MAY-23-AR.pdf"
+    },
+    {
+      "filename": "JUN-23-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/06/JUNE-23-AR.pdf"
+    },
+    {
+      "filename": "JULYAUG-23-AR.pdf",
+      "is_new": true,
+      "month_label": "July/August 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/07/JULYAUG-23-AR.pdf"
+    },
+    {
+      "filename": "SEP-23-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/09/SEPT-23-AR.pdf"
+    },
+    {
+      "filename": "OCT-23-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/10/OCT-23-AR.pdf"
+    },
+    {
+      "filename": "NOV-23-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/11/NOV-23-AR.pdf"
+    },
+    {
+      "filename": "DEC-23-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2023 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/12/DEC-23-AR.pdf"
+    },
+    {
+      "filename": "JAN-24-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2024/01/JAN-24-AR.pdf"
+    },
+    {
+      "filename": "FEB-24-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2024/02/FEB-24-AR.pdf"
+    },
+    {
+      "filename": "JULYAUG-24-AR.pdf",
+      "is_new": true,
+      "month_label": "July/August 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2024/07/JULYAUG-24-AR.pdf"
+    },
+    {
+      "filename": "DEC-24-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2024/12/DEC-24-AR.pdf"
+    },
+    {
+      "filename": "JAN-25-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2025/01/JAN-25-AR.pdf"
+    },
+    {
+      "filename": "FEB-25-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2025/02/FEB-25-AR.pdf"
+    },
+    {
+      "filename": "MAY-25-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2025/04/MAY-25-AR.pdf"
+    },
+    {
+      "filename": "JUN-25-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2025/05/JUNE-25-AR.pdf"
+    },
+    {
+      "filename": "NOV-25-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2025/11/NOV-25-AR.pdf"
+    },
+    {
+      "filename": "JAN-26-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2026 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/01/JAN-26-AR.pdf"
+    },
+    {
+      "filename": "FEB-26-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2026 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/02/FEB-26-AR.pdf"
+    },
+    {
+      "filename": "MAR-26-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2026 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/02/MAR-26-AR.pdf"
+    },
+    {
+      "filename": "APR-24-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/APR-24-AR.pdf"
+    },
+    {
+      "filename": "APR-26-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2026 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/APR-26-AR.pdf"
+    },
+    {
+      "filename": "APR-25-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/APRIL-25-AR.pdf"
+    },
+    {
+      "filename": "JULYAUG-25-AR.pdf",
+      "is_new": true,
+      "month_label": "July/August 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/JULYAUG-25-AR.pdf"
+    },
+    {
+      "filename": "JUN-24-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/JUNE-24-AR.pdf"
+    },
+    {
+      "filename": "MAR-25-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/MAR-25-AR.pdf"
+    },
+    {
+      "filename": "MAY-24-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/MAY-24-AR.pdf"
+    },
+    {
+      "filename": "NOV-24-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/NOV-24-AR.pdf"
+    },
+    {
+      "filename": "OCT-24-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/OCT-24-AR.pdf"
+    },
+    {
+      "filename": "OCT-25-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/OCT-25-AR.pdf"
+    },
+    {
+      "filename": "SEP-24-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2024 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/SEPT-24-AR.pdf"
+    },
+    {
+      "filename": "SEP-25-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2025 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/04/SEPT-25-AR.pdf"
+    },
+    {
+      "filename": "MAY-26-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2026 Action Report",
+      "page_count": 12,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2026/05/MAY-26-AR.pdf"
+    },
+    {
+      "filename": "dec17ar.pdf",
+      "is_new": true,
+      "month_label": "Dec17ar",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/dec17ar.pdf"
+    },
+    {
+      "filename": "NOV-17-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2017 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/nov-17-AR.pdf"
+    },
+    {
+      "filename": "oct17AR-1.pdf",
+      "is_new": true,
+      "month_label": "Oct17ar 201",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/oct17AR-1.pdf"
+    },
+    {
+      "filename": "SEP-17-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2017 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2018/04/sept-17-ar.pdf"
+    },
+    {
+      "filename": "NOV-18-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2018 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2018/11/NOV-18-AR-1.pdf"
+    },
+    {
+      "filename": "DEC-18-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2018 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2018/12/DEC-18-AR.pdf"
+    },
+    {
+      "filename": "JAN-19-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/01/JAN-19-AR.pdf"
+    },
+    {
+      "filename": "FEB-19-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/02/FEB-19-AR.pdf"
+    },
+    {
+      "filename": "MAR-19-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/03/MAR-19-AR.pdf"
+    },
+    {
+      "filename": "APR-19-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/04/APR-19-AR.pdf"
+    },
+    {
+      "filename": "MAY-19-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/05/MAY-19-AR.pdf"
+    },
+    {
+      "filename": "JUN-19-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/06/JUNE-19-AR.pdf"
+    },
+    {
+      "filename": "julyaug19-ar.pdf",
+      "is_new": true,
+      "month_label": "Julyaug19 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/07/julyaug19-ar.pdf"
+    },
+    {
+      "filename": "OCT-19-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/10/OCT-19-AR.pdf"
+    },
+    {
+      "filename": "NOV-19-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/11/NOV-19-AR.pdf"
+    },
+    {
+      "filename": "SEP-19-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/11/SEPT-19-AR.pdf"
+    },
+    {
+      "filename": "DEC-19-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2019 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2019/12/DEC-19-AR.pdf"
+    },
+    {
+      "filename": "JAN-20-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/01/JAN-20-AR.pdf"
+    },
+    {
+      "filename": "FEB-20-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/02/FEB-20-AR.pdf"
+    },
+    {
+      "filename": "MAR-20-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/03/MAR-20-AR.pdf"
+    },
+    {
+      "filename": "APR-20-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/04/APR-20-AR.pdf"
+    },
+    {
+      "filename": "MAY-20-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/05/MAY-20-AR.pdf"
+    },
+    {
+      "filename": "JUN-20-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/06/JUNE-20-AR.pdf"
+    },
+    {
+      "filename": "JULYAUG-20-AR.pdf",
+      "is_new": true,
+      "month_label": "July/August 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/07/JULY-AUGUST-20-AR.pdf"
+    },
+    {
+      "filename": "SEP-20-AR.pdf",
+      "is_new": true,
+      "month_label": "September 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/09/SEPT-20-AR-1.pdf"
+    },
+    {
+      "filename": "OCT-20-AR.pdf",
+      "is_new": true,
+      "month_label": "October 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/10/OCT-20-AR.pdf"
+    },
+    {
+      "filename": "DEC-20-AR.pdf",
+      "is_new": true,
+      "month_label": "December 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/11/DEC-20-AR.pdf"
+    },
+    {
+      "filename": "NOV-20-AR.pdf",
+      "is_new": true,
+      "month_label": "November 2020 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/11/NOV-20-AR.pdf"
+    },
+    {
+      "filename": "JAN-21-AR.pdf",
+      "is_new": true,
+      "month_label": "January 2021 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2021/01/JAN-21-AR.pdf"
+    },
+    {
+      "filename": "FEB-21-AR.pdf",
+      "is_new": true,
+      "month_label": "February 2021 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2021/02/FEB-21-AR.pdf"
+    },
+    {
+      "filename": "MAR-21-AR.pdf",
+      "is_new": true,
+      "month_label": "March 2021 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2021/03/MAR-21-AR.pdf"
+    },
+    {
+      "filename": "APR-21-AR.pdf",
+      "is_new": true,
+      "month_label": "April 2021 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2021/04/APR-21-AR.pdf"
+    },
+    {
+      "filename": "MAY-21-AR.pdf",
+      "is_new": true,
+      "month_label": "May 2021 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2021/05/MAY-21-AR.pdf"
+    },
+    {
+      "filename": "JUN-21-AR.pdf",
+      "is_new": true,
+      "month_label": "June 2021 Action Report",
+      "page_count": 12,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2021/06/JUNE-21-AR.pdf"
+    },
+    {
+      "filename": "OCT-22.pdf",
+      "is_new": true,
+      "month_label": "October 2022",
+      "page_count": 13,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/11/CE-MetroSouth-Reg-Sewer-Econ-Dev-Oct-2022-final.pdf"
+    },
+    {
+      "filename": "NOV-22.pdf",
+      "is_new": true,
+      "month_label": "November 2022",
+      "page_count": 20,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2022/11/Metro-South-Regional-Sewer-Econ-Dev-Assessment-Nov-2022.pdf"
+    },
+    {
+      "filename": "MAY-22.pdf",
+      "is_new": true,
+      "month_label": "May 2022",
+      "page_count": 265,
+      "url": "https://metrosouthchamber.com/wp-content/uploads/2023/07/Bridgewater-Comprehensive-Master-Plan-May-2022_202301031324310582.pdf"
+    },
+    {
+      "filename": "AUG-20.pdf",
+      "is_new": true,
+      "month_label": "August 2020",
+      "page_count": 13,
+      "url": "https://www.metrosouthchamber.com/wp-content/uploads/2020/08/Opportunity-Zone-Presentation-August-2020.pdf"
+    }
+  ],
+  "pdfs_new_or_updated": 215,
+  "start_url": "https://metrosouthchamber.com/",
+  "started_at": "2026-05-07T13:59:02Z",
+  "tracker_stats": {
+    "pages_tracked": 200,
+    "pdfs_tracked": 215
+  }
+}
